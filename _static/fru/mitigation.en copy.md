@@ -245,7 +245,10 @@ casters.
   <tr>
     <td>
       <p>Powder Mark Trail 2</p>
-      <ul></ul>
+      <ul>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
+      </ul>
     </td>
     <td>
       <ul>
@@ -254,7 +257,9 @@ casters.
       </ul>
     </td>
     <td>
-      <li>Tank swap here</li>
+    <ul>
+      <li>Tank swap here.</li>
+    </ul>
     </td>
   </tr>
 </table>
@@ -264,7 +269,9 @@ casters.
 <table>
   <tr>
     <td>
+      <ud>
       <p>Quadruple Slap</p>
+      </ud>
       <ul>
         <li></li>
       </ul>
@@ -279,6 +286,133 @@ casters.
         <li>Tank swap here so the MT doesn't die to autos after the invuln falls off.</li>
         <li>The MT can provoke back when Diamond Dust is being cast.</li>
         <li>A bard can pre-cast <em>The Warden's Paean</em> to remove the Physical Vuln on the tank taking the buster.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Diamond Dust</p>
+    </td>
+    <td>
+      <ul>
+        <li>MT Reprisal</li>
+        <li>H2 30s</li>
+        <li>D2</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ud>
+      <p>Sinbound Holy</p>
+    </td>
+    <td>
+    <ul>
+      <li>ST 90s</li>
+      <li>H2 30s</li>
+      <li>D3</li>
+    </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Any extra mitigations and abilities that help with healing should be used here.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Hallowed Ray</p>
+    </td>
+    <td>
+      <ul>
+        <li>ST Reprisal</li>
+        <li>H2 30s</li>
+        <li>D1, D4</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Mirror Mirror</p>
+    </td>
+    <td>
+      <ul>
+        <li>H2 120s</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>The tank holding aggro should use their personal mitigations here as they will be taking autos while doing the mechanic.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Banish III</p>
+    </td>
+    <td>
+      <ul>
+        <li>MT Reprisal</li>
+        <li>H2 30s</li>
+        <li>D2</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Tanks can use short mitigations on the melees to keep them healthy for the the 2nd set of cleaves or the Banish III cast.</li>
+        <li>15s mitigations should be used as late as possible into the <em>Banish III</em> cast to also cover <em>Light Rampant</em>.</li>
+        <li>Any extra mitigation can be placed here.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Light Rampant</p>
+    </td>
+    <td>
+      <ul>
+        <li>H1 120s, H1 180s</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Previous targeted mits will cover both <em>Banish III</em> and <em>Light Rampant</em>.</li>
+        <li>H1 180s should be used post cast to cover the puddle drops and stacks.</li>
+        <li>MT can use their 90s here to cover the cast or after to cover the puddles and stack.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Banish III → House of Light</p>
+    </td>
+    <td>
+      <ul>
+        <li>ST Reprisal</li>
+        <li>H2 30s</li>
+        <li>D1, D4</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>H2 120s can be used to substitute the 30s here.
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Absolute Zero</p>
+    </td>
+    <td>
+      <ul>
+        <li>MT Reprisal</li>
+        <li>H2 120s</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>H2 30s can be used to substitute the 120s here.</li>
+        <li>Any remaining mitigation can be used here.</li>
       </ul>
     </td>
   </tr>
