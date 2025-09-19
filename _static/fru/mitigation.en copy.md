@@ -11,7 +11,7 @@ permalink: /elemental/_static/fru/mitigation.en%20copy.md
 
 # Appendix A: Mitigation
 
-The following is a mitigation framework for the encounter.
+### The following is a mitigation framework for the encounter.
 
 It is *not* a plan for PF and is made for my static; use it if you want, but I will not be responsible for people dying due to this mitplan not being what PF follows. This is a work-in-progress.
 
@@ -128,7 +128,7 @@ casters.
 <table>
   <tr>
     <td>
-      <p>Cyclonic Break 1</p>
+      <p>Cyclonic Break #1</p>
       <ul>
         <li><b>T:</b> </li>
       </ul>
@@ -149,7 +149,7 @@ casters.
   </tr>
   <tr>
     <td>
-      <p>Powder Mark Trail</p>
+      <p>Powder Mark Trail #1</p>
       <ul></ul>
       <li><b>T:</b> </li>
     </td>
@@ -161,14 +161,16 @@ casters.
     </td>
     <td>
     <ul>
+        <li><em>Rampart</em> should be used towards the end of the castbar, as we want it to cover <em>Burn Mark</em> as well.
         <li>Tank swap here.</li>
-        <li>Tank 3rds can be used for the 2nd hit of the buster.</li>
+        <li>Tank 3rds can be used for Burn Mark.</li>
+        <li>Healers can give Tanks extra mitigation for both or either part of the tankbuster.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Utopian Sky + Cyclonic Break 2</p>
+      <p>Utopian Sky + Cyclonic Break #2</p>
       <ul>
         <li><b></b> </li>
         <li><b></b> </li>
@@ -188,7 +190,7 @@ casters.
   </tr>
   <tr>
     <td>
-      <p>Sinsmoke → Burnished Glory 1</p>
+      <p>Sinsmoke → Burnished Glory #1</p>
       <ul>
         <li><b>T:</b> k</li>
         <li><b>T:</b> k</li>
@@ -229,7 +231,7 @@ casters.
   </tr>
   <tr>
     <td>
-      <p>Burnished Glory 2</p>
+      <p>Burnished Glory #2</p>
       <ul>
         <li><b>P:</b> k</li>
         <li><b>M:</b> k</li>
@@ -244,7 +246,7 @@ casters.
   </tr>
   <tr>
     <td>
-      <p>Powder Mark Trail 2</p>
+      <p>Powder Mark Trail #2</p>
       <ul>
         <li><b>P:</b> k</li>
         <li><b>M:</b> k</li>
@@ -273,7 +275,6 @@ casters.
       <p>Quadruple Slap</p>
       </ud>
       <ul>
-        <li></li>
       </ul>
     </td>
     <td>
@@ -391,7 +392,7 @@ casters.
     <td>
       <ul>
         <li>ST Reprisal</li>
-        <li>H2 30s</li>
+        <li>H2 30s. H2 90s</li>
         <li>D1, D4</li>
       </ul>
     </td>
@@ -408,6 +409,7 @@ casters.
     <td>
       <ul>
         <li>MT Reprisal</li>
+        <li>ST 90s</li>
         <li>H2 120s</li>
       </ul>
     </td>
@@ -425,72 +427,111 @@ casters.
 <table>
   <tr>
     <td>
-      <p>Hatebound</p>
+      <p>Junction</p>
       <ul>
-        <li><b>P:</b> 29k-41k</li>
-        <li><b>M:</b> 27k-37k</li>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>MT 90s, D3</li>
+        <li>H2 30s</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>This is to help with healing since there isn't a good spot
-        elsewhere.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Steep in Rage</p>
-      <ul>
-        <li><b>P:</b> 55k-66k</li>
-        <li><b>M:</b> 53k-61k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>MT <em>Reprisal</em></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
+        <li>H2s can prep shields here as to not use a GCD when Gaia appears.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Brightwing #1</p>
+      <p>Hell's Judgement</p>
       <ul>
-        <li><b>P:</b> 49k-65k</li>
-        <li><b>M:</b> 49k-63k</li>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>MT Reprisal</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Use <em>Reprisal</em> after your 2nd GCD for it to be back up for <em>Shell Crusher</em> and <em>Shockwave Pulsar</em>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Ultimate Relativity</p>
+      <ul>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>H2 30s</li>
+        <li>D1, D4</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>MT should <em>Reprisal</em> this if not used earlier.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Set #1</p>
+      <ul>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>MT 90s</li>
+        <li>ST Reprisal</li>
+        <li>H2 90s</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Set #2-#3</p>
+      <ul>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>ST 90s</li>
+        <li>H1 180s, H2 120s</li>
+        <li>D3</li>
       </ul>
     </td>
     <td></td>
-    <td>
-      <ul>
-        <li>Covered by the Tank LB3.</li>
-        <li>H2 90s will be up for <em>Wrath of the Heavens</em> if used 
-        immediately after getting pulled in.</li>
-      </ul>
-    </td>
   </tr>
   <tr>
     <td>
-      <p>Brightwing #2</p>
+      <p>Shell Crusher → Shockwave Pulsar</p>
       <ul>
-        <li><b>P:</b> 49k-65k</li>
-        <li><b>M:</b> 49k-63k</li>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>MT short → D1</li>
-        <li>ST short → D2</li>
-        <li>ST Reprisal, H1 120s, H2 120s, D3</li>
+        <li>MT Reprisal</li>
+        <li>D2</li>
       </ul>
     </td>
     <td>
@@ -500,50 +541,71 @@ casters.
   </tr>
   <tr>
     <td>
-      <p>Brightwing #3</p>
+      <p>Black Halo</p>
+    </td>
+    <td>
       <ul>
-        <li><b>P:</b> 49k-65k</li>
-        <li><b>M:</b> 49k-63k</li>
+        <li>MT Kitchen Sink</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Covered by ST <em>Reprisal</em>, H1 120s, H2 120s, D3</li>
-      </ul>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>
-      <p>Brightwing #4</p>
-      <ul>
-        <li><b>P:</b> 49k-65k</li>
-        <li><b>M:</b> 49k-63k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>MT <em>Reprisal</em>, D4</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Covered by H1 120s, H2 120s, D3</li>
+        <li>ST should give their MT their buddy mit here.<li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Pure of Heart</p>
+      <p>Apocalypse → Spirit Taker</p>
       <ul>
-        <li><b>P:</b> 61k-76k</li>
-        <li><b>M:</b> 53k-64k</li>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
       </ul>
     </td>
-    <td></td>
     <td>
       <ul>
-        <li>Covered by MT <em>Reprisal</em>, H1 120s, H2 120s, D4</li>
+        <li>H2 30s</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>ST may choose to <em>Reprisal</em> this if Invulning Darkest Dance.</li>
+        <li>Regens such as Physis and Whispering Dawn can be used here.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Darkest Dance</p>
+    </td>
+    <td>
+      <ul>
+        <li>ST Kitchen Sink</li>
+        <li>ST Reprisal</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>MT should give the ST their buddy mit here.</li>
+        <li>ST may choose to Invuln this instead.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Shockwave Pulsar → Memory's End</p>
+    </td>
+    <td>
+      <ul>
+        <li>MT Reprisal</li>
+        <li>H2 30s</li>
+        <li>D1, D4</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Mitigations should be used as late into the castbar as possible to cover both Shockwave Pulsar and Memory's End.</li>
+        <li>In the situation that you have difficulty timing the mitigations, use it late instead to only cover Memory's End as that one hurts more.</li>
       </ul>
     </td>
   </tr>
@@ -551,136 +613,139 @@ casters.
 
 ### P4. Gaia and Shiva
 
-It may look odd that tanks aren't using their 30% mitigations here. That is
-because we want to guarantee their 30% mitigations are available for P6's
-*Wyrmsbreaths*, which hit harder, and have greater consequences of a tank death.
-
-Because P5 is so short, 30% mitigations used at the first *Heavenly Heel → 
-Ascalon's Might* sequence may not be back up in time for *Wyrmsbreath #1* if
-the killtime is fast.
-
-This means that tanks will be taking the *Heavenly Heel → Ascalon's Might*
-sequences with their weaker mitigations. In particular, they will need support
-for the second *Heavenly Heel*, hence why D3's party mitigation is used at 
-*Heavenly Heel #2* instead of *Ancient Quaga #2*.
+Due to how tight the mitigation and heal check is in this phase, the party should pay close attention to how late they can use their mitigations in P3 in order for it to be up in P4. The crystal/memory occasionally pulses with raidwide damage during this phase so it is imperative the party is healthy enough to survive mechanics that come with the raidwide. H2 shields are expected for all mechanics.
 
 <table>
   <tr>
     <td>
-      <p>Wrath of the Heavens</p>
+      <p>Akh Rhai</p>
       <ul>
-        <li>H2 90s</li>
-      </ul>
-    </td>
-    <td>
-    </td>
-    <td>
-      <ul>
-        <li>Strong shields are useful here because the party will be spread
-        out.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Ancient Quaga #1</p>
-      <ul>
-        <li><b>P:</b> 85k-97k</li>
-        <li><b>M:</b> 75k-93k</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>MT Reprisal, MT 90s, H2 30s, D1, D3</li>
+        <li>H1 120s</li>
+        <li>H2 30s</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Notably, <em>Addle</em> is overkill here, and is better served at
-        the second <em>Ancient Quaga</em>.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Heavenly Heel → 3x Ascalon's Might #1</p>
+      <p>Darklit Dragonsong → Spirit Taker</p>
       <ul>
-        <li><b>T:</b> 242k-307k</li>
-        <li><b>T:</b> 3x 84k-90k</li>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><b>MT + ST:</b> Rampart + short</li>
-        <li>ST Reprisal, D2</li>
-      </ul>
-    </td>
-    <td>
-      <li>A WAR should <em>Holmgang</em> instead.</li>
-      <li>Tank swap if not taken by <em>Holmgang</em>.</li>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Death of the Heavens</p>
-    </td>
-    <td>
-      <ul>
-        <li>H1 120s, H2 120s</li>
+        <li>MT 90s</li>
+        <li>ST Reprisal</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>The damage from <em>Death of the Heavens</em> isn't lethal, but
-        it's good to mitigate the damage to let the healers focus on the 
-        mechanic. There also isn't any other good spot to use the healer 120s 
-        mitigations.</li>
+        <li>Also covered my H1 120s.</li>
+        <li>Targeted debuffs should be used on Usurper of Frost.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Ancient Quaga #2</p>
+      <p>Somber Dance</p>
       <ul>
-        <li><b>P:</b> 85k-97k</li>
-        <li><b>M:</b> 75k-93k</li>
+        <li><b>T:</b> k</li>
+        <li><b>T:</b> k</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>MT Reprisal, ST 90s, H2 30s, D4</li>
+        <li><b>MT</b> Invuln</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Although D3 can use their mitigation early to cover both
-        <em>Ancient Quaga</em>, we don't need it here, and it's more valuable
-        at <em>Heavenly Heel #2</em> to help the tanks, as they will be using 
-        their weakest mitigations there.</li>
+        <li>This takes into account that your MT is not a Paladin.</li>
+        <li>A Paladin will not have their Invuln up in P5 if they Invuln this.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Heavenly Heel → 3x Ascalon's Might #2</p>
+      <p>Akh Morn + Morn Afah #1</p>
+    </td>
+    <td>
       <ul>
-        <li><b>T:</b> 175k-196k</li>
-        <li><b>T:</b> 3x 84k-90k</li>
+        <li>MT Reprisal</li>
+        <li>H2 30s</li>
+        <li>D1</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>3rd + short</li>
-        <li>ST Reprisal, D1, D3</li>
+        <li>H2 30s should be used <em>immediately</em> after the 2nd hit of Somber Dance so that it's back up for Crystallize Time.</li>
+        <li>Targeted debuffs should be used on Usurper of Frost.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Crystallize Time</p>
+      <ul>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Tank swap.</li>
-        <li>Healers should help the tanks, as they cannot use their stronger 
-        mitigations here.</li>
-        <li>A DRK can <em>Rampart</em> if it's available, as they can use 
-        <em>Dark Mind</em> in P6.</li>
+        <li>ST Reprisal, ST 90s</li>
+        <li>H2 30s</li>
+        <li>D2, D4</li>
+        <li><b>H2 120s, D3</b></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Targeted debuffs should be used on Oracle of Darkness.</li>
+        <li><b><em>H2</em></b> 120s and <b><em>D3</em></b> mits should be used late <em>after</em> the Crystallize time damage goes out to cover the mechanic itself.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Hallowed Wings</p>
+      <ul>
+        <li><b>T:</b> k</li>
+        <li><b>T:</b> k</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+      </ul>
+    </td>
+    <td>
+      <ul>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Akh Morn + Morn Afah #2</p>
+    </td>
+    <td>
+      <ul>
+        <li>MT Reprisal, MT 90s</li>
+        <li>H1 120s, H2 30s</li>
+        <li>D2</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Use any remaining mitigations here.</li>
       </ul>
     </td>
   </tr>
@@ -688,309 +753,223 @@ for the second *Heavenly Heel*, hence why D3's party mitigation is used at
 
 ### P5. Pandora
 
-Notably, DRK is very strong in this phase because *Dark Mind* will be available
-for both *Hallowed Wings*.
-
-However, be careful if your party has DRK + SGE + SCH, as the healers will have
-trouble topping up the DRK if *Living Dead* was used at *Cauterize*.
-
 <table>
   <tr>
     <td>
-      <p>Wyrmsbreath #1</p>
+      <p>Fulgent Blade #1</p>
       <ul>
-        <li><b>T:</b> 111k-144k</li>
+        <li><b>T:</b> k</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>30% + short</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>If only one mouth is glowing, the tank whose dragon's mouth glows
-        can give their short mit to the other tank.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Akh Afah #1</p>
-      <ul>
-        <li><b>P:</b> 69k-76k</li>
-        <li><b>M:</b> 65k-71k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>MT <em>Reprisal</em>, H2 30s</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>The MT needs to stand in the middle of the arena to hit
-        <em>both</em> dragons with <em>Reprisal</em> before joining their
-        <em>Akh Afah</em> stack.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Hallowed Wings #1</p>
-      <ul>
-        <li><b>T:</b> 121k-135k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><b>MT + ST:</b> <em>Rampart</em> + short</li>
-        <li>ST <em>Reprisal</em></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>A DRK can add <em>Dark Mind</em>, or use it instead of <em>Rampart</em>.</li>
-        <li>The ST may not be able to <em>Reprisal</em> this in the event of
-        tank downtime.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Wroth Flames</p>
-      <ul>
-        <li><b>P:</b> 4x 56k-62k</li>
-        <li><b>M:</b> 4x 53k-60k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>MT 90s, ST 90s, H1 120s, H2 120s, D3, D4</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Add H2 30s if able- the latest H2 30s can be used and still be back
-        for <em>Akh Afah</em> #2 is when the 2nd set of orbs spawn.</li>
-        <li>WHM will typically use <em>Liturgy of the Bell</em> here.</li>
-        <li>SGE will typically use <em>Panhaima</em> here.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Akh Afah #2</p>
-      <ul>
-        <li><b>P:</b> 69k-76k</li>
-        <li><b>M:</b> 65k-71k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>MT <em>Reprisal</em>, H2 30s</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>The MT needs to stand in the middle of the arena to hit
-        <em>both</em> dragons with <em>Reprisal</em> before joining their
-        <em>Akh Afah</em> stack.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Hallowed Wings #2</p>
-      <ul>
-        <li><b>T:</b> 121k-135k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><b>MT + ST:</b> 3rd + short</li>
-        <li>ST <em>Reprisal</em></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>A DRK can add <em>Dark Mind</em>.</li>
-        <li>This set of <em>Hallowed Wings</em> hurt more because
-        <em>Rampart</em> is not used. Furthermore, the MT will end up on the 
-        opposite side of the party (out of healing range). Additional 
-        mitigation helps.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Wyrmsbreath #2</p>
-      <ul>
-        <li><b>T:</b> 111k-144k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><b>MT + ST:</b> <em>Rampart</em> + 30%</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>If timed correctly, tank mitigations can last until
-        <em>Cauterize</em>.</li>
-        <li>A tank's 25s short mitigation likely won't be available.</li>
-        <li>A DRK will be able to use <em>The Blackest Night</em>.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Cauterize</p>
-      <ul>
-        <li><b>T:</b> 217k-240k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><b>MT + ST:</b> Invuln <b>or</b> 30% + <em>Rampart</em> + short</li>
+        <li>MT Reprisal, MT 90s</li>
         <li>H2 30s</li>
+        <li>D1</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>A WAR should <em>Holmgang</em> regardless, as <em>Holmgang</em> 
-        will be back for <em>Akh Morn's Edge</em> #3.</li>
+        <li>Mitigations can be used after the 1st GCD.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Alternative End</p>
+      <p>Akh Morn #1</p>
       <ul>
-        <li><b>P:</b> 116k-128k</li>
-        <li><b>M:</b> 108k-120k</li>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>MT 90s, ST 90s, H2 30s, H2 120s, H2 90s, D3</li>
+        <li>ST Reprisal, ST 90s</li>
+        <li>H2 30s, H2 90s</li>
+        <li>D2, D4</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>A SCH can substitute <em>Expedient</em> with <em>Fey
-        Illumination</em>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-### P7. Dragonking Thordan
-
-Each hit from *Akh Morn's Edge* deals 36k-38k damage/second.
-
-In contrast, each hit from *Gigaflare's Edge* deals 67k-71k base damage, but
-the three hits are spaced out over 8 seconds, leading to an average of 25k-27k 
-damage/second (this is somewhat made up for by having to move and heal).
-
-Note that MT, ST, H2 and D3 should watch the *Trinity* autoattacks after
-*Exaflare's Edge* to use their mitigations.
-
-<table>
-  <tr>
-    <td>
-      <p>Akh Morn's Edge #1</p>
-      <ul>
-        <li><b>T:</b> 5x 63k-72k</li>
-        <li><b>P:</b> 5x 36k-39k</li>
-        <li><b>M:</b> 5x 33k-37k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><b>MT + ST:</b> <em>Rampart</em> + 3rd</li>
-        <li>MT <em>Reprisal</em>, H1 120s, H2 30s, D1</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Use H2 30s right after the second <em>Trinity</em> auto-attack
-        after <em>Exaflare's Edge</em>.</li>
+        <li>Mitigations can be used after dodging into the 2nd set of Exawaves.</li>
+        <li>Tanks should use their short mits as they are taking autos during Exawaves. The latest they can press their short is just before dodging into the 2nd set of Exawaves.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Gigaflare's Edge #1</p>
+      <p>Wings Dark and Light #1</p>
       <ul>
-        <li><b>P:</b> 3x 57k-69k</li>
-        <li><b>M:</b> 3x 51k-67k</li>
+        <li><b>T:</b> k</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>ST <em>Reprisal</em>, H2 30s, D2, D4</li>
-      </ul>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>
-      <p>Akh Morn's Edge #2</p>
-      <ul>
-        <li><b>T:</b> 6x 63k-72k</li>
-        <li><b>P:</b> 6x 36k-39k</li>
-        <li><b>M:</b> 6x 33k-37k</li>
+        <li>MT Kitchen Sink</li>
+        <li>ST Invuln</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><b>MT + ST:</b> 30%</li>
-        <li>MT <em>Reprisal</em>, MT 90s, ST 90s, H2 30s, D3</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Use MT 90s, ST 90s, H2 30s, and D3's mitigation right after the
-        second <em>Trinity</em> auto-attack after <em>Exaflare's Edge</em>.</li>
+        <li>The tanks can press Rampart when the castbar reaches the <b><em>R</em></b> of Paradise Regained and the timer of Rampart can be used to time their 40%.</li>
+        <li>Healers should help the tank that isn't using their Invuln.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Gigaflare's Edge #2</p>
+      <p>Polarizing Strikes #1</p>
       <ul>
-        <li><b>P:</b> 3x 57k-69k</li>
-        <li><b>M:</b> 3x 51k-67k</li>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>ST <em>Reprisal</em>, H2 30s, H2 120s, D1</li>
+        <li>MT Reprisal</li>
+        <li>H2 30s, H2 120s</li>
+        <li>D3</li>
       </ul>
     </td>
-    <td></td>
+    <td>
+      <ul>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
-      <p>Akh Morn's Edge #3</p>
+      <p>Pandora's Box</p>
       <ul>
-        <li><b>T:</b> 7x 63k-72k</li>
-        <li><b>P:</b> 7x 36k-39k</li>
-        <li><b>M:</b> 7x 33k-37k</li>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><b>MT + ST:</b> <em>Rampart</em> + 3rd
-          <ul>
-            <li>A WAR will <em>Holmgang</em> instead.</li>
-          </ul>
-        </li>
-        <li>MT <em>Reprisal</em>, MT 90s, ST 90s, H1 120s, H2 30s, D2, D3, D4</li>
+        <li>Tank LB3</li>
       </ul>
     </td>
-    <td></td>
+    <td>
+      <ul>
+        <li>The priority for LB3 is WAR>PLD>DRK>GNB.</li>
+        <li>LB3 should be used when the castbar passes the <b><em>P</em></b> in Pandora's Box.</li>
+        <li>Mitigations that last 15s can be used when the castbar passes the <b><em>B</em></b> in Pandora's Box to cover both Pandora's Box and Fulgent Blade #2.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Fulgent Blade #2</p>
+      <ul>
+        <li><b>T:</b> k</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>MT 90s</li>
+        <li>ST Reprisal</li>
+        <li>H2 30s</li>
+        <li>D1</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Akh Morn #2</p>
+      <ul>
+        <li><b>T:</b> k</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>MT Reprisal</li>
+        <li>ST 90s</li>
+        <li>H2 30s</li>
+        <li>D2, D4</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Wings Dark and Light #2</p>
+      <ul>
+        <li><b>T:</b> k</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>MT Invuln</li>
+        <li>ST Kitchen Sink</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Polarizing Strikes #2</p>
+      <ul>
+        <li><b>P:</b> k</li>
+        <li><b>M:</b> k</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>ST Reprisal</li>
+        <li>H1 120s, H2 30s</li>
+        <li>D3</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>ST Reprisal should be used after the 2nd hit for it to cover Fulgent Blade #3.</li>
+        <li>If H2 120s are used right after the 2nd auto after Wings of Dark and Light #1, they will have theirs available here as well.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <p>Fulgent Blade #3</p>
+    </td>
+    <td>
+      <ul>
+        <li>MT 90s</li>
+        <li>H2 120s</li>
+        <li>D1</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        </il>This should ideally also be covered by ST Reprisal.</li>
+      </ul>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Akh Morn #3</p>
+    </td>
+    <td>
+      <ul>
+        <li>MT Reprisal</li>
+        <li>ST 90s</li>
+        <li>H2 30s</li>
+        <li>D2, D4</li>
+      </ul>
+    </td>
+    <td>
+    </td>
   </tr>
 </table>
 
@@ -998,212 +977,184 @@ Note that MT, ST, H2 and D3 should watch the *Trinity* autoattacks after
 
 ### MT
 
+Work In Progress
+
 <table>
   <tr>
     <td>
-      <p><b>P2. Thordan</b></p>
+      <p><b>P1. Fatebreaker</b></p>
     </td>
     <td>
-      <p><b>3x Ascalon's Might</b></p>
+      <p><b>Cyclonic Break</b></p>
       <ul>
-        <li>short</li>
+        <li><em>Reprisal</em> just before the cast bar finishes will last until
+        <em>Powder Mark Trail</em>.</li>
+        <li>If you are WAR or PLD, you can use <em>Shake It Off/Divine
+        Veil</em> at the start and have it back for <em>Burnished Glory</em> #2.</li>
       </ul>
-      <p><b>Strength of the Ward</b></p>
+      <p><b>Powder Mark Trail #1</b></p>
       <ul>
-        <li>30%, short</li>
+        <li><em>Reprisal, Rampart</em>, 40%, short</li>
       </ul>
-      <p><b>Ancient Quaga</b></p>
+      <p>Use <em>Rampart</em> towards the end of the castbar to have it last to
+      the <em>Burn Mark</em>.</p>
+      <p><b>Burn Mark #1</b></p>
       <ul>
-        <li>30%, short</li>
-        <li>This is the latest you can use your MT 90s, and have it back by
-        <em>Ultimate End</em></li>
+        <li><em>Rampart</em>, 3rd</li>
       </ul>
-      <p><b>Heavenly Heel</b></p>
-      <ul>
-        <li>Rampart + 3rd</li>
-      </ul>
-      <p><b>Ultimate End</b></p>
-      <ul>
-        <li><em>Reprisal</em>, MT 90s
-          <ul>
-            <li>A WAR/PLD can use <em>Shake It Off/Divine Veil</em> right after
-            <em>Sanctity of the Ward</em> and get an additional use at the second
-            <em>Eye of the Tyrant</em> stack, if killtime is slow enough.</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P3. Nidhogg</b></p>
-    </td>
-    <td>
-      <p><b>Eye of the Tyrant #2</b></p>
+      <p><b>Burnished Glory #1</b></p>
       <ul>
         <li><em>Reprisal</em></li>
       </ul>
-      <p><b>Soul Tethers</b></p>
+      <p><b>Burnished Glory #2</b></p>
       <ul>
-        <li>Invuln
-          <ul>
-            <li>The MT can mitigate the auto-attacks after <em>Soul
-            Tethers</em>.</li>
-          </ul>
-        </li>
+        <li>MT 90s</li>
+        <ul>
+          <li>If you are a DRK or GNB, you can use <em>Dark Missionary/Heart of
+          Light</em> after the second tether resolves to mitigate the third and
+          fourth tethers in addition to <em>Burnished Glory</em>.</li>
+        </ul>
+      </ul>
+      <p><b>Powder Mark Trail #2</b> (only if PLD MT)</p>
+      <ul>
+        <li><em>Hallowed Ground</em></li>
+      </ul>
+      <p><b>Burn Mark #2</b></p>
+      <ul>
+        <li><em>Rampart</em>, 40%, 3rd</li>
+        <li>Give short mit to the ST.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <p><b>P4. Eyes + Saving Haurchefant</b></p>
+      <p><b>P2. Usurper of Frost</b></p>
     </td>
     <td>
-      <p><b>Resentment</b></p>
+      <p><b>Quad Strike</b></p>
       <ul>
-        <li>Rampart → 30%</li>
-        <li>MT 90s
-          <ul>
-            <li>This is just to help out with healing, as there is no other
-            place to use it before saving Haurchefant.</li>
-          </ul>
-        </li>
+        <li>Invuln</li>
       </ul>
-      <p><b>Steep in Rage</b></p>
+      <p><b>Diamond Dust</b></p>
       <ul>
         <li><em>Reprisal</em></li>
       </ul>
-      <p><b>Pure of Heart</b></p>
-      <ul>
-        <li><em>Reprisal</em></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P5. Alternate Timeline Thordan</b></p>
-    </td>
-    <td>
-      <p><b>Ancient Quaga</b></p>
-      <ul>
-        <li><em>Reprisal</em>, MT 90s</li>
-        <li>Use your MT 90s early to have it back by the second <em>Ancient Quaga</em>.</li>
-      </ul>
-      <p><b>Heavenly Heel #1</b></p>
-      <ul>
-        <li><em>Rampart</em> + short</li>
-        <li>If you have a WAR, they should <em>Holmgang</em> this instead. Tank
-        swap if this wasn't taken with <em>Holmgang</em>.</li>
-      </ul>
-      <p><b>Ancient Quaga #2</b></p>
-      <ul>
-        <li>If you used your MT 90s early enough in the previous <em>Ancient Quaga</em>, it will be back up here.</li>
-      </ul>
-      <p><b>Heavenly Heel #2</b></p>
-      <ul>
-        <li>3rd + short
-          <ul>
-            <li>A DRK can add <em>Rampart</em> if it's available because they 
-            can substitute it with <em>Dark Mind</em> in P6.</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P6. Double Dragons</b></p>
-    </td>
-    <td>
-      <p><b>Wyrmsbreath #1</b></p>
-      <ul>
-        <li>30% + short</li>
-        <li>If Hraesvelgr's mouth isn't glowing, use your short mitigation on
-        the ST co-tank.</li>
-      </ul>
-      <p><b>Akh Afah #1</b></p>
-      <ul>
-        <li><em>Reprisal</em>
-          <ul>
-            <li>Stand in the middle of the arena to hit <em>both</em> dragons
-            with <em>Reprisal</em> before joining the <em>Akh Afah</em>
-            stack.</li>
-          </ul>
-        </li>
-      </ul>
-      <p><b>Hallowed Wings #1</b></p>
-      <ul>
-        <li><em>Rampart</em> + short
-          <ul>
-            <li>A DRK can <em>Dark Mind</em> instead of <em>Rampart</em>.</li>
-          </ul>
-        </li>
-      </ul>
-      <p><b>Wroth Flames</b></p>
+      <p><b>Sunburst Holy x4</b></p>
       <ul>
         <li>MT 90s</li>
       </ul>
-      <p><b>Akh Afah #2</b></p>
+      <p><b>Mirror, Mirror</b></p>
       <ul>
-        <li><em>Reprisal</em>
-          <ul>
-            <li>Stand in the middle of the arena to hit <em>both</em> dragons
-            with <em>Reprisal</em> before joining the <em>Akh Afah</em>
-            stack.</li>
-          </ul>
-        </li>
+        <li>Rampart, 40%</li>
+        <ul>
+          <li>Cycle through these to mitigate auto-attacks.</li>
+        </ul>
       </ul>
-      <p><b>Hallowed Wings #2</b></p>
+      <p><b>Banish III</b></p>
       <ul>
-        <li>3rd + short
-          <ul>
-            <li>A DRK can <em>Dark Mind</em> in addition.</li>
-          </ul>
-        </li>
+        <li><em>Reprisal</em></li>
+        <ul>
+          <li>Use this towards the end of the castbar to also cover <em>Light
+          Rampant</em>.</li>
+        </ul>
+        <li>Give your short mit to D1 during Banish III.</li>
       </ul>
-      <p><b>Wyrmsbreath #2</b></p>
+      <p><b>Light Rampant</b></p>
       <ul>
-        <li>30% + <em>Rampart</em>
-          <ul>
-            <li>If timed correctly, these can also be used to mitigate 
-            <em>Cauterize</em>.</li>
-          </ul>
-        </li>
+        <li><em>Reprisal</em></li>
       </ul>
-      <p><b>Cauterize</b></p>
+      <p><b>Absolute Zero</b></p>
       <ul>
-        <li>Invuln <b>or</b> 30% + <em>Rampart</em> + short</li>
-      </ul>
-      <p><b>Alternative End</b></p>
-      <ul>
-        <li>MT 90s</li>
+        <li><em>Reprisal</em></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td><b>P7. Dragonking Thordan</b></td>
     <td>
-      <p><b>Akh Morn's Edge #1</b></p>
+      <p><b>P3. Oracle of Darkness</b></p>
+    </td>
+    <td>
+      <p><b>Ultimate Relativity</b></p>
       <ul>
-        <li><em>Rampart + 3rd</em></li>
         <li><em>Reprisal</em></li>
       </ul>
-      <p><b>Akh Morn's Edge #2</b></p>
+      <p><b>Fire/Unholy Darkness #2 or #3</b></p>
       <ul>
-        <li>30%</li>
-        <li><em>Reprisal</em>, MT 90s</li>
-        <li>Use MT 90s right after the second auto-attack after <em>Exaflare's
-        Edge</em>.</li>
+        <li>MT 90s</li>
       </ul>
-      <p><b>Akh Morn's Edge #3</b></p>
+      <p>Feel free to use <em>Reprisal</em> anywhere else in this phase
+      <em>before</em> the final <em>Dark Water III</em> stacks at
+      <em>Apocalypse</em>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Gaia and Shiva</b></p>
+    </td>
+    <td>
+      <p><b>Darklit Dragonsong</b></p>
       <ul>
-        <li><em>Rampart + 3rd</em>
+        <li><em>Reprisal</em>, MT 90s</li>
+      </ul>
+      <p><b>Somber Dance</b></p>
+      <ul>
+        <li>Invuln</li>
+        <li>Use <em>Rampart</em> when the boss jumps- this will cover <em>Akh
+        Morn</em> #1 and be back for <em>Akh Morn</em> #2 in the event the ST
+        dies.</li>
+      </ul>
+      <p><b>Akh Morn #1</b></p>
+      <ul>
+        <li><em>Rampart</em>, 3rd, short</li>
+      </ul>
+      <p><b>Crystallize Time</b></p>
+      <ul>
+        <li><em>Reprisal</em></li>
+      </ul>
+      <p><b>Crystallize Time (Hallowed Wings)</b></p>
+      <ul>
+        <li>MT 90s, 40%
           <ul>
-            <li>A WAR will <em>Holmgang</em> instead.</li>
+            <li>Use these around the time the Oracle of Darkness jumps on
+            someone (<em>Spirit Taker</em>) just before the rewind resolves.</li>
+            <li>The party actually has more than enough mitigation for
+            <em>Hallowed Wings</em>. Consider having one tank move their 90s 
+            forward to cover <em>Morn Afah</em> #1 instead, especially if they 
+            are WAR/PLD. That tank should also bring their 90s mitigations 
+            forward to <em>Memory's End</em> and <em>Morn Afah</em> #1.</li>
           </ul>
         </li>
+      </ul>
+      <p><b>Akh Morn #2</b></p>
+      <ul>
+        <li>Give short mit to the ST.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Pandora</b></p>
+    </td>
+    <td>
+      <p><b>Fulgent Blade #1</b></p>
+      <ul>
         <li><em>Reprisal</em>, MT 90s</li>
-        <li>Use MT 90s as soon as it's available.</li>
+      </ul>
+      <p><b>Wings Dark and Light #1</b></p>
+      <ul>
+        <li><em>Rampart</em>, 40%, 3rd, short</li>
+      </ul>
+      <p><b>Fulgent Blade #2</b></p>
+      <ul>
+        <li><em>Reprisal</em>, MT 90s</li>
+      </ul>
+      <p><b>Wings Dark and Light #2</b></p>
+      <ul>
+        <li>Invuln</li>
+      </ul>
+      <p><b>Fulgent Blade #3</b></p>
+      <ul>
+        <li><em>Reprisal</em>, MT 90s</li>
       </ul>
     </td>
   </tr>
@@ -1211,184 +1162,141 @@ Note that MT, ST, H2 and D3 should watch the *Trinity* autoattacks after
 
 ### ST
 
+The default mitigation plan has *both* tanks use their 90s party mitigation at
+*Hallowed Wings* during *Crystallize Time*. However, this is too much 
+mitigation at this spot (MT 90s, ST 90s, H1 120s, H2 120s, D3), which leaves a
+bit of a weak spot at *Memory's End* and *Morn Afah* #1.
+
+Consider having one tank (especially if they are WAR/PLD) move their 90s party
+mitigation from *Darklit Dragonsong* → *Hallowed Wings* to *Memory's End* → 
+*Morn Afah* #1.
+
 <table>
   <tr>
     <td>
-      <p><b>P2. Thordan</b></p>
+      <p><b>P1. Fatebreaker</b></p>
     </td>
     <td>
-      <p><b>3x Ascalon's Might</b></p>
+      <p><b>Burn Mark #1</b></p>
       <ul>
-        <li><em>Reprisal</em></li>
-        <li>If the MT is a WAR, they'll be taking this with <em>Holmgang</em>.</li>
+        <li>40%, <em>Rampart</em>, 3rd</li>
+        <li>Give the MT your targeted short mit.</li>
       </ul>
-      <p><b>Strength of the Ward</b></p>
+      <p><b>Burnished Glory #2</b></p>
       <ul>
-        <li>30%, short</li>
+        <li>ST Reprisal, ST 90s</li>
+        <ul>
+          <li>If you are a DRK or GNB, you can use <em>Dark Missionary/Heart of
+          Light</em> after the second tether resolves to mitigate the third and
+          fourth tethers in addition to <em>Burnished Glory</em>.</li>
+        </ul>
       </ul>
-      <p><b>Heavenly Heel</b></p>
+      <p><b>Powder Mark Trail #2</b></p>
       <ul>
-        <li><em>Reprisal</em></li>
+        <li><em>Invuln unless</em> you have a PLD MT (in which case, the PLD
+        should take this with <em>Hallowed Ground</em> instead)</li>
       </ul>
-      <p><b>3x Ascalon's Might</b></p>
+      <p><b>Burn Mark #2</b></p>
       <ul>
-        <li><em>Rampart</em> + short</li>
+        <li><em>Rampart</em>, 3rd, short</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <p><b>P3. Nidhogg</b></p>
+      <p><b>P2. Usurper of Frost</b></p>
     </td>
     <td>
-      <p><b>Final Chorus</b></p>
+      <p><b>Sunburst Holy x4</b></p>
       <ul>
         <li>ST 90s</li>
       </ul>
-      <p><b>Eye of the Tyrant #1</b></p>
+      <p><b>Absolute Zero</b></p>
+      <ul>
+        <li>ST 90s</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P3. Oracle of Darkness</b></p>
+    </td>
+    <td>
+      <p><b>Fire/Unholy Darkness #2</b></p>
+      <ul>
+        <li><em>ST 90s</em></li>
+      </ul>
+      <p><b>Shell Crusher → Shockwave Pulsar #1</b></p>
       <ul>
         <li><em>Reprisal</em></li>
       </ul>
-      <p><b>Soul Tethers</b></p>
+      <p><b>Memory's End</b></p>
+      <ul>
+        <li><em>Reprisal</em></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Gaia and Shiva</b></p>
+    </td>
+    <td>
+      <p><b>Akh Morn → Morn Afah #1</b></p>
+      <ul>
+        <li><em>Reprisal</em></li>
+      </ul>
+      <p><b>Crystallize Time (Hallowed Wings)</b></p>
+      <ul>
+        <li>ST 90s, 40%
+          <ul>
+            <li>Use this around the time the Oracle of Darkness jumps on
+            someone (<em>Spirit Taker</em>) just before the rewind resolves.</li>
+            <li>The party actually has more than enough mitigation for
+            <em>Hallowed Wings</em>. Consider having one tank move their 90s 
+            forward to cover <em>Morn Afah</em> #1 instead, especially if they 
+            are WAR/PLD. That tank should also bring their 90s mitigations 
+            forward to <em>Memory's End</em> and <em>Morn Afah</em> #1.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Akh Morn #2</b></p>
+      <ul>
+        <li><em>Rampart</em>, 3rd, short</li>
+        <li><em>Reprisal</em></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Pandora</b></p>
+    </td>
+    <td>
+      <p><b>Akh Morn #1</b></p>
+      <ul>
+        <li><em>Reprisal</em>, ST 90s</li>
+      </ul>
+      <p><b>Wings Dark and Light #1</b></p>
+      <ul>
+        <li><em>Rampart</em>, 40%, 3rd, short</li>
+      </ul>
+      <p><b>Fulgent Blade #2</b></p>
+      <ul>
+        <li><em>Reprisal</em></li>
+        <ul>
+          <li>This can also cover <em>Pandora's Box</em>.</li>
+        </ul>
+      </ul>
+      <p><b>Wings Dark and Light #2</b></p>
       <ul>
         <li>Invuln</li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P4. Eyes + Saving Haurchefant</b></p>
-    </td>
-    <td>
-      <p><b>Resentment</b></p>
-      <ul>
-        <li>Rampart → 30%</li>
-        <li>ST 90s
-          <ul>
-            <li>This is just to help out with healing, as there is no other
-            place to use it before saving Haurchefant.</li>
-          </ul>
-        </li>
-      </ul>
-      <p><b>Brightwing #2</b></p>
+      <p><b>Polarising Strikes #2</b></p>
       <ul>
         <li><em>Reprisal</em></li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P5. Alternate Timeline Thordan</b></p>
-    </td>
-    <td>
-      <p><b>Heavenly Heel #1</b></p>
-      <ul>
-        <li><em>Rampart</em> + short</li>
-        <li><em>Reprisal</em></li>
-        <li>A WAR MT will <em>Holmgang</em> this. Tank swap if this wasn't
-        taken with <em>Holmgang</em>.</li>
-      </ul>
-      <p><b>Ancient Quaga #2</b></p>
-      <ul>
-        <li>If you used your MT 90s early enough in the previous
-        <em>Ancient Quaga</em>, it will be back up here.</li>
-      </ul>
-      <p><b>Heavenly Heel #2</b></p>
-      <ul>
-        <li>3rd + short
-          <ul>
-            <li>A DRK can add <em>Rampart</em> if it's available because they 
-            can substitute it with <em>Dark Mind</em> in P6.</li>
-          </ul>
-        </li>
-        <li><em>Reprisal</em></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P6. Double Dragons</b></p>
-    </td>
-    <td>
-      <p><b>Wyrmsbreath #1</b></p>
-      <ul>
-        <li>30% + short
-          <ul>
-            <li>If Nidhogg's mouth isn't glowing, use your short mitigation
-            on the MT.</li>
-          </ul>
-        </li>
-      </ul>
-      <p><b>Hallowed Wings #1</b></p>
-      <ul>
-        <li><em>Rampart</em> + short</li>
-        <li>Reprisal
-          <ul>
-            <li>You may not be able to get this <em>Reprisal</em> if it's
-            tank downtime.</li>
-            <li>A DRK can <em>Dark Mind</em> instead of <em>Rampart</em>.</li>
-          </ul>
-        </li>
-      </ul>
-      <p><b>Wroth Flames</b></p>
+      <p><b>Akh Morn #3</b></p>
       <ul>
         <li>ST 90s</li>
-      </ul>
-      <p><b>Hallowed Wings #2</b></p>
-      <ul>
-        <li>3rd + short
-          <ul>
-            <li>A DRK can <em>Dark Mind</em> in addition.</li>
-          </ul>
-        </li>
-        <li><em>Reprisal</em></li>
-      </ul>
-      <p><b>Wyrmsbreath #2</b></p>
-      <ul>
-        <li>30% + <em>Rampart</em>
-          <ul>
-            <li>If timed correctly, these can also be used to mitigate 
-            <em>Cauterize</em>.</li>
-          </ul>
-        </li>
-      </ul>
-      <p><b>Cauterize</b></p>
-      <ul>
-        <li>Invuln <b>or</b> 30% + <em>Rampart</em> + short</li>
-      </ul>
-      <p><b>Alternative End</b></p>
-      <ul>
-        <li>ST 90s</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>P7. Dragonking Thordan</b></td>
-    <td>
-      <p><b>Akh Morn's Edge #1</b></p>
-      <ul>
-        <li><em>Rampart + 3rd</em></li>
-      </ul>
-      <p><b>Gigaflare's Edge #1</b></p>
-      <ul>
-        <li><em>Reprisal</em></li>
-      </ul>
-      <p><b>Akh Morn's Edge #2</b></p>
-      <ul>
-        <li>30%</li>
-        <li>ST 90s</li>
-        <li>Used ST 90s right after the second auto-attack after <em>Exaflare's
-        Edge</em>.</li>
-      </ul>
-      <p><b>Gigaflare's Edge #2</b></p>
-      <ul>
-        <li><em>Reprisal</em></li>
-      </ul>
-      <p><b>Akh Morn's Edge #3</b></p>
-      <ul>
-        <li><em>Rampart + 3rd</em></li>
-        <li>ST 90s</li>
-        <li>Use ST 90s as soon as it's available.</li>
       </ul>
     </td>
   </tr>
@@ -1402,102 +1310,108 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
 <table>
   <tr>
     <td>
-      <p><b>P2. Thordan</b></p>
+      <p><b>P1. Fatebreaker</b></p>
     </td>
     <td>
-      <p>H1 120s mitigations are not commited anywhere in this phase. You can
-      choose between:</p>
-      <ul>
-        <li><em>Strength of the Ward</em> + <em>Final Chorus</em></li>
-        <li><em>Ancient Quaga</em> + <em>Heavenly Heel</em></li>
-        <li><em>Sanctity of the Ward</em> + <em>Eye of the Tyrant</em> #2</li>
-      </ul>
-      <p><b>3x Ascalon's Might</b></p>
-      <ul>
-        <li><em>Aquaveil/Exaltation</em> → MT</li>
-        <li>If the MT is a WAR, they'll be taking this with <em>Holmgang</em>.</li>
-      </ul>
-      <p><b>Sanctity of the Ward</b></p>
-      <ul>
-        <li>An AST's <em>Macrocosmos</em> is useful here, allowing an
-        accidental 5-3 split to survive.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P3. Nidhogg</b></p>
-    </td>
-    <td>
-      <p>H1 120s are not committed to any part of this phase, so feel free to
-      use it for comfort.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P4. Eyes + Saving Haurchefant</b></p>
-    </td>
-    <td>
-      <p><b>Brightwing #2</b></p>
+      <p><b>Burnished Glory #1</b></p>
       <ul>
         <li>H1 120s
           <ul>
-            <li>A WHM would <em>Liturgy of the Bell</em> here.</li>
+            <li>Use your 120s mitigation early (when the knockback happens just
+            before the boss reappears). You only need to cover the initial damage
+            from <em>Burnished Glory</em>.</li>
+            <li>Use your 180s abilities early as well, if you want to use them
+            again at <em>Mirror, Mirror</em>.</li>
           </ul>
         </li>
       </ul>
-      <p>A WHM can use <em>Benediction</em> on Haurchefant.</p>
     </td>
   </tr>
   <tr>
     <td>
-      <p><b>P5. Alternate Timeline Thordan</b></p>
+      <p><b>P2. Usurper of Frost</b></p>
     </td>
     <td>
-      <p><b>Death of the Heavens</b></p>
+      <p><b>Sunburst Holy</b></p>
       <ul>
         <li>H1 120s</li>
       </ul>
-      <p><b>Heavenly Heel #2</b></p>
+      <p><b>Absolute Zero</b></p>
       <ul>
-        <li><em>Aquaveil/Exaltation</em> → MT</li>
+        <li>H1 120s</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <p><b>P6. Double Dragons</b></p>
+      <p><b>P3. Oracle of Darkness</b></p>
     </td>
     <td>
-      <p><b>Wroth Flames</b></p>
+      <p><b>Ultimate Relativity</b></p>
+      <ul>
+        <li>H1 120s
+          <ul>
+            <li>This may seem strange, but it's used early here to be back in
+            time for the final <em>Shockwave Pulsar</em> → <em>Memory's End</em>
+            sequence, and should also cover the first set of <em>Dark Fire
+            III</em>.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Shockwave Pulsar #2</b></p>
       <ul>
         <li>H1 120s</li>
-        <li>A WHM would use <em>Liturgy of the Bell</em> here.</li>
+        <ul>
+          <li>Use this a bit before the cast resolves to cover <em>Memory's
+          End</em> as well.</li>
+        </ul>
       </ul>
-      <p><b>Hallowed Wings #2</b></p>
+      <p><b>Memory's End</b></p>
       <ul>
-        <li><em>Aquaveil/Exaltation</em> here on a tank is very nice.</li>
-      </ul>
-      <p><b>Cauterize</b></p>
-      <ul>
-        <li>An AST would use <em>Macrocosmos</em> here.</li>
+        <li>H1 120s</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td><b>P7. Dragonking Thordan</b></td>
     <td>
-      <p><b>Akh Morn's Edge #1</b></p>
+      <p><b>P4. Gaia and Shiva</b></p>
+    </td>
+    <td>
+      <p><b>Crystallize Time</b></p>
+      <ul>
+        <li>H1 120s
+          <ul>
+            <li>You can use this when the <em>Spell in Waiting: Quietus</em>
+            resolves, and it will still cover the <em>Hallowed Wings</em>.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Pandora</b></p>
+    </td>
+    <td>
+      <p><b>Polarising Strikes #1</b></p>
       <ul>
         <li>H1 120s</li>
+        <ul>
+          <li>Use this no earlier than when the cast bar reaches the "P" in
+          <em>Polarizing Strikes</em> to cover all four hits.</li>
+        </ul>
       </ul>
-      <p><b>Akh Morn's Edge #2</b></p>
+      <p><b>Polarising Strikes #2</b></p>
       <ul>
         <li>H1 180s</li>
       </ul>
-      <p><b>Akh Morn's Edge #3</b></p>
+      <p><b>Fulgent Blade #3</b></p>
       <ul>
         <li>H1 120s</li>
+        <ul>
+          <li>This <em>cannot</em> cover both <em>Fulgent Blade</em> and
+          <em>Akh Morn</em>.</li>
+        </ul>
       </ul>
     </td>
   </tr>
@@ -1508,167 +1422,180 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
 <table>
   <tr>
     <td>
-      <p><b>P2. Thordan</b></p>
+      <p><b>P1. Fatebreaker</b></p>
     </td>
     <td>
-      <p>A SGE would prefer to <em>Holos</em> at <em>Strength of the Ward</em>,
-      because <em>Sanctity of the Ward</em> can be covered by <em>Kerachole</em>
-      + <em>Panhaima</em> (in addition to <em>Zoe</em> shields).</p>
-      <p>A SGE may also need to hold <em>Holos</em> for <em>Final Chorus</em>,
-      in which case they can use <em>Holos</em> only at <em>Strength of the
-      Ward</em>.</p>
-      <p><b>Ancient Quaga</b></p>
-      <ul>
-        <li>H2 30s</li>
-      </ul>
-      <p><b>Sanctity of the Ward</b></p>
-      <ul>
-        <li>H2 90s
-          <ul>
-            <li>Use this during the <em>Ascalon's Might</em> cleaves to ensure
-            it will be back up in time for <em>Final Chorus</em>, even with
-            faster killtimes.</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P3. Nidhogg</b></p>
-    </td>
-    <td>
-      <p><b>Final Chorus</b></p>
-      <ul>
-        <li>H2 30s, H2 90s
-          <ul>
-            <li>A SGE may need to add <em>Physis II</em> if no other extra
-            mitigations are available.</li>
-          </ul>
-        </li>
-      </ul>
-      <p><b>Eye of the Tyrant #1</b></p>
-      <ul>
-        <li>H2 30s</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P4. Eyes + Saving Haurchefant</b></p>
-    </td>
-    <td>
-      <p><b>Steep in Rage</b></p>
-      <ul>
-        <li>H2 30s</li>
-      </ul>
-      <p><b>Brightwing #2</b></p>
-      <ul>
-        <li>H2 120s</li>
-        <li>A SGE would use <em>Panhaima</em> here.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P5. Alternate Timeline Thordan</b></p>
-    </td>
-    <td>
-      <p><b>Wrath of the Heavens</b></p>
-      <ul>
-        <li>H2 90s</li>
-      </ul>
-      <p><b>Ancient Quaga #1</b></p>
-      <ul>
-        <li>H2 30s</li>
-      </ul>
-      <p><b>Death of the Heavens</b></p>
-      <ul>
-        <li>H2 120s</li>
-      </ul>
-      <p><b>Ancient Quaga #2</b></p>
-      <ul>
-        <li>H2 30s</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P6. Double Dragons</b></p>
-    </td>
-    <td>
-      <p><b>Wyrmsbreath #1</b></p>
-      <ul>
-        <li>H2 90s
-          <ul>
-            <li>A SGE can catch this with a <em>Kerachole</em> (and have it
-            back for <em>Akh Afah</em>) if <em>Kerachole</em> is used right
-            after the second GCD.</li>
-          </ul>
-        </li>
-      </ul>
-      <p><b>Akh Afah #1</b></p>
-      <ul>
-        <li>H2 30s</li>
-      </ul>
-      <p><b>Wroth Flames</b></p>
-      <ul>
-        <li>H2 120s
-          <li>A SGE would <em>Panhaima</em> here.</li>
-        </li>
-      </ul>
-      <p><b>Hallowed Wings #2</b></p>
-      <ul>
-        <li>The tanks are taking more damage here, so give them more attention.</li>
-      </ul>
-      <p><b>Cauterize</b></p>
-      <ul>
-        <li>H2 30s</li>
-      </ul>
-      <p><b>Alternative End</b></p>
-      <ul>
-        <li>H2 30s, H2 90s, H2 120s
-          <li>A SCH can substite <em>Expedient</em> with <em>Fey 
-          Illumination</em>.</li>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>P7. Dragonking Thordan</b></td>
-    <td>
-      <p>Notably, SCH would prefer to use <em>Seraph</em> at <em>Gigaflare's
-      Edge</em>, while a SGE's <em>Panhaima</em> excels at <em>Akh Morn's
-      Edge</em> #1 and #3.</p>
-      <p><b>Akh Morn's Edge #1</b></p>
+      <p><b>Cyclonic Break</b></p>
       <ul>
         <li>H2 30s
           <ul>
-            <li>Use H2 30s right after the second auto-attack following
-            <em>Exaflare's Edge</em>.</li>
+            <li>Use this no earlier than when the cast-bar reaches the "C" in
+            <em>Cyclonic Break</em> to also help the MT for <em>Powder Mark
+            Trail</em>.</li>
           </ul>
         </li>
       </ul>
-      <p><b>Gigaflare's Edge #1</b></p>
+      <p><b>Burnished Glory #1</b></p>
       <ul>
-        <li>H2 30s</li>
+        <li>H2 30s, H2 120s
+          <ul>
+            <li>Use your 120s mitigation early (when the knockback happens just
+            before the boss reappears). You only need to cover the initial damage
+            from <em>Burnished Glory</em>.</li>
+          </ul>
+        </li>
       </ul>
-      <p><b>Akh Morn's Edge #2</b></p>
+      <p><b>Burnished Glory #2</b></p>
       <ul>
         <li>H2 30s
           <ul>
-            <li>Use H2 30s right after the second auto-attack following
-            <em>Exaflare's Edge</em>.</li>
+            <li>Use this after the second tether resolves in <em>Fall of
+            Faith</em> to cover the last two tethers and the initial hit from
+            <em>Burnished Glory</em>.</li>
           </ul>
         </li>
       </ul>
-      <p><b>Gigaflare's Edge #2</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P2. Usurper of Frost</b></p>
+    </td>
+    <td>
+      <p><b>Diamond Dust</b></p>
       <ul>
         <li>H2 30s, H2 120s</li>
       </ul>
-      <p><b>Akh Morn's Edge #3</b></p>
+      <p><b>Hallowed Ray</b></p>
       <ul>
-        <li><em>H2 30s</em></li>
+        <li>H2 30s</li>
+      </ul>
+      <p><b>Light Rampant</b></p>
+      <ul>
+        <li>H2 30s</li>
+      </ul>
+      <p><b>House of Light</b></p>
+      <ul>
+        <li>H2 120s
+          <ul>
+            <li>Use this early to also cover the <em>Banish III</em> stacks at
+            the end of <em>Light Rampant</em> in addition to <em>House of
+            Light</em>.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Absolute Zero</b></p>
+      <ul>
+        <li>H2 30s</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P3. Oracle of Darkness</b></p>
+    </td>
+    <td>
+      <p><b>Ultimate Relativity</b></p>
+      <ul>
+        <li>H2 120s
+          <ul>
+            <li>This may seem strange, but it's used early here to be back in
+            time for the final <em>Shockwave Pulsar</em> → <em>Memory's End</em>
+            sequence, and should also cover the first set of <em>Dark Fire
+            III</em>.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Spell in Waiting: Dark Fire III #1</b></p>
+      <ul>
+        <li>H2 30s</li>
+      </ul>
+      <p><b>Shockwave Pulsar #1</b></p>
+      <ul>
+        <li>H2 30s</li>
+      </ul>
+      <p><b>Apocalypse (Spell in Waiting: Dark Water III #1)</b></p>
+      <ul>
+        <li>H2 30s</li>
+      </ul>
+      <p><b>Shockwave Pulsar #2</b></p>
+      <ul>
+        <li>H2 120s</li>
+        <ul>
+          <li>Use this a bit before the cast resolves to cover <em>Memory's
+          End</em> as well.</li>
+        </ul>
+      </ul>
+      <p><b>Memory's End</b></p>
+      <ul>
+        <li>H2 30s, H2 120s</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Gaia and Shiva</b></p>
+    </td>
+    <td>
+      <p><b>Darklit Dragonsong</b></p>
+      <ul>
+        <li>H2 30s</li>
+      </ul>
+      <p><b>Akh Morn → Morn Afah #1</b></p>
+      <ul>
+        <li>H2 30s
+          <ul>
+            <li>If you use this when the Oracle of Darkness jumps for the
+            second time for <em>Somber Dance</em>, it will cover the four
+            <em>Akh Morn</em> hits, and be back in time for the start of
+            <em>Crystallize Time</em>. However, it will <em>not</em> cover
+            <em>Morn Afah</em> if you do so.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Crystallize Time</b></p>
+      <ul>
+        <li>H2 30s</li>
+      </ul>
+      <p><b>Crystallize Time (Hallowed Wings)</b></p>
+      <ul>
+        <li>H2 120s
+          <ul>
+            <li>You can use this when the <em>Spell in Waiting: Quietus</em>
+            resolves, and it will still cover the <em>Hallowed Wings</em>.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Akh Morn → Morn Afah #2</b></p>
+      <ul>
+        <li>H2 30s</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Pandora</b></p>
+    </td>
+    <td>
+      <p><b>Polarising Strikes #1</b></p>
+      <ul>
+        <li>H2 120s</li>
+        <ul>
+          <li>Use this no earlier than when the cast bar reaches the "P" in
+          <em>Polarizing Strikes</em> to cover all four hits.</li>
+        </ul>
+      </ul>
+      <p><b>Polarising Strikes #2</b></p>
+      <ul>
+        <li>H2 180s</li>
+      </ul>
+      <p><b>Fulgent Blade #3</b></p>
+      <ul>
+        <li>H2 120s</li>
+        <ul>
+          <li>This <em>cannot</em> cover both <em>Fulgent Blade</em> and
+          <em>Akh Morn</em>.</li>
+        </ul>
       </ul>
     </td>
   </tr>
@@ -1679,80 +1606,96 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
 <table>
   <tr>
     <td>
-      <p><b>P2. Thordan</b></p>
+      <p><b>P1. Fatebreaker</b></p>
     </td>
     <td>
-      <p><b>3x Ascalon's Might</b></p>
+      <p><b>Cyclonic Break</b></p>
       <ul>
         <li><em>Feint</em>
           <ul>
-            <li>A WAR will <em>Holmgang</em> this.</li>
+            <li>Use this no earlier than when the cast-bar reaches the "C" in
+            <em>Cyclonic Break</em> to also help the MT for <em>Powder Mark
+            Trail</em>.</li>
           </ul>
         </li>
       </ul>
-      <p><b>Ultimate End</b></p>
-      <ul>
-        <li><em>Feint</em></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P3. Nidhogg</b></p>
-    </td>
-    <td>
-      <p><em>Feint</em> doesn't change any breakpoints in this phase, so feel
-      free to use it as you please.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P4. Eyes + Saving Haurchefant</b></p>
-    </td>
-    <td>
-      <p><b>Brightwing #2</b></p>
-      <ul>
-        <li><em>Feint</em></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P5. Alternate Timeline Thordan</b></p>
-    </td>
-    <td>
-      <p><b>Ancient Quaga #1</b></p>
+      <p><b>Burnished Glory #2</b></p>
       <ul>
         <li><em>Feint</em>
           <ul>
-            <li>If the party has two casters, this <em>Feint</em> should go to
-            the melee DPS, as it's more important that <em>Feint</em> is back 
-            for the second <em>Heavenly Heel</em>.</li>
+            <li>Use this after the second tether resolves in <em>Fall of
+            Faith</em> to cover the last two tethers and the initial hit from
+            <em>Burnished Glory</em>.</li>
           </ul>
         </li>
       </ul>
-      <p><b>Heavenly Heel #2</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P2. Usurper of Frost</b></p>
+    </td>
+    <td>
+      <p><b>Hallowed Ray</b></p>
+      <ul>
+        <li><em>Feint</em></li>
+      </ul>
+      <p><b>Absolute Zero</b></p>
       <ul>
         <li><em>Feint</em></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td><b>P6. Double Dragons</b></td>
     <td>
-      <p>There aren't any great places to <em>Feint</em>. To just help out,
-      the best places would either be <em>Wroth Flames</em>, or
-      <em>Hallowed Wings</em> #2.</p>
+      <p><b>P3. Oracle of Darkness</b></p>
     </td>
-  </tr>
-  <tr>
-    <td><b>P7. Dragonking Thordan</b></td>
     <td>
-      <p><b>Akh Morn's Edge #1</b></p>
+      <p><b>Ultimate Relativity</b></p>
       <ul>
         <li><em>Feint</em></li>
       </ul>
-      <p><b>Gigaflare's Edge #2</b></p>
+      <p><b>Memory's End</b></p>
+      <ul>
+        <li><em>Feint</em></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Gaia and Shiva</b></p>
+    </td>
+    <td>
+      <p><b>Crystallize Time</b></p>
+      <ul>
+        <li><em>Feint</em>
+          <ul>
+            <li>Make sure you <em>Feint</em> the Oracle of Darkness.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Pandora</b></p>
+    </td>
+    <td>
+      <p><b>Fulgent Blade #1</b></p>
+      <ul>
+        <li><em>Feint</em></li>
+      </ul>
+      <p><b>Fulgent Blade #2</b></p>
+      <ul>
+        <li><em>Feint</em>
+          <ul>
+            <li>Use this when the castbar reaches the "B" in <em>Pandora's
+            Box</em> to cover <em>Pandora's Box</em> in addition to <em>Fulgent
+            Blade</em>.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Fulgent Blade #3</b></p>
       <ul>
         <li><em>Feint</em></li>
       </ul>
@@ -1767,10 +1710,10 @@ This assumes D2 is a melee DPS.
 <table>
   <tr>
     <td>
-      <p><b>P2. Thordan</b></p>
+      <p><b>P1. Fatebreaker</b></p>
     </td>
     <td>
-      <p><b>Heavenly Heel</b></p>
+      <p><b>Burnished Glory #1</b></p>
       <ul>
         <li><em>Feint</em></li>
       </ul>
@@ -1778,10 +1721,34 @@ This assumes D2 is a melee DPS.
   </tr>
   <tr>
     <td>
-      <p><b>P3. Nidhogg</b></p>
+      <p><b>P2. Usurper of Frost</b></p>
     </td>
     <td>
-      <p><b>Eye of the Tyrant #2</b></p>
+      <p><b>Diamond Dust</b></p>
+      <ul>
+        <li><em>Feint</em></li>
+      </ul>
+      <p><b>Light Rampant</b></p>
+      <ul>
+        <li><em>Feint</em>
+          <ul>
+            <li>You can use this early to also cover the <em>Banish III</em>
+            stacks at the end of <em>Mirror, Mirror</em>.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P3. Oracle of Darkness</b></p>
+    </td>
+    <td>
+      <p><b>Shell Crusher → Shockwave Pulsar #1</b></p>
+      <ul>
+        <li><em>Feint</em></li>
+      </ul>
+      <p><b>Memory's End</b></p>
       <ul>
         <li><em>Feint</em></li>
       </ul>
@@ -1789,42 +1756,33 @@ This assumes D2 is a melee DPS.
   </tr>
   <tr>
     <td>
-      <p><b>P4. Eyes + Saving Haurchefant</b></p>
+      <p><b>P4. Gaia and Shiva</b></p>
     </td>
     <td>
-      <p><b>Brightwing #4</b></p>
+      <p><b>Darklit Dragonsong</b></p>
       <ul>
-        <li><em>Feint</em></li>
+        <li><em>Feint</em>
+          <ul>
+            <li>Make sure you <em>Feint</em> the Usurper of Frost.</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <p><b>P5. Alternate Timeline Thordan</b></p>
+      <p><b>P5. Pandora</b></p>
     </td>
     <td>
-      <p><b>Heavenly Heel #1</b></p>
+      <p><b>Akh Morn #1</b></p>
       <ul>
         <li><em>Feint</em></li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>P6. Double Dragons</b></td>
-    <td>
-      <p>There aren't any great places to <em>Feint</em>. To just help out,
-      the best places would either be <em>Wroth Flames</em>, or
-      <em>Hallowed Wings</em> #2.</p>
-    </td>
-  </tr>
-  <tr>
-    <td><b>P7. Dragonking Thordan</b></td>
-    <td>
-      <p><b>Gigaflare's Edge #1</b></p>
+      <p><b>Akh Morn #2</b></p>
       <ul>
         <li><em>Feint</em></li>
       </ul>
-      <p><b>Akh Morn's Edge #3</b></p>
+      <p><b>Akh Morn #3</b></p>
       <ul>
         <li><em>Feint</em></li>
       </ul>
@@ -1837,105 +1795,96 @@ This assumes D2 is a melee DPS.
 <table>
   <tr>
     <td>
-      <p><b>P2. Thordan</b></p>
+      <p><b>P1. Fatebreaker</b></p>
     </td>
     <td>
-      <p><b>Strength of the Ward</b></p>
-      <ul>
-        <li><em>Troubadour/Tactician/Shield Samba</em></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P3. Nidhogg</b></p>
-    </td>
-    <td>
-      <p><b>Final Chorus</b></p>
-      <ul>
-        <li><em>Troubadour/Tactician/Shield Samba</em></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P4. Eyes + Saving Haurchefant</b></p>
-    </td>
-    <td>
-      <p><b>Hatebound</b></p>
-      <ul>
-        <li><em>Troubadour/Tactician/Shield Samba</em></li>
-      </ul>
-      <p><b>Brightwing #2</b></p>
-      <ul>
-        <li><em>Troubadour/Tactician/Shield Samba</em></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P5. Alternate Timeline Thordan</b></p>
-    </td>
-    <td>
-      <p>We want D3's mitigation to help the tanks cover the second 
-      <em>Heavenly Heel</em> and <em>Ascalon's Might</em>, as they are the
-      weakest there.</p>
-      <p>This means we want D3 to cover the first <em>Ancient Quaga</em>, but 
-      <em>not</em> the second. This also means that there is no need to try and
-      time D3's mitigations to cover both <em>Ancient Quaga</em>.</p>
-      <p><b>Ancient Quaga #1</b></p>
-      <ul>
-        <li><em>Troubadour/Tactician/Shield Samba</em></li>
-      </ul>
-      <p><b>Heavenly Heel #2 → 3x Ascalon's Might</b></p>
-      <ul>
-        <li><em>Troubadour/Tactician/Shield Samba</em></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P6. Double Dragons</b></p>
-    </td>
-    <td>
-      <p>The best places for a MCH to use <em>Dismantle</em> would either be at
-      <em>Wroth Flames</em>, or at <em>Hallowed Wings</em> #2 (use
-      <em>Dismantle</em> on Hraesvelgr).</p>
-      <p><b>Wroth Flames</b></p>
-      <ul>
-        <li><em>Troubadour/Tactician/Shield Samba</em></li>
-      </ul>
-      <p><b>Alternative End</b></p>
+      <p><b>Cyclonic Break</b></p>
       <ul>
         <li><em>Troubadour/Tactician/Shield Samba</em>
           <ul>
-            <li>A DNC can extract the maximum value from <em>Improvised
-            Finish</em> if they start <em>Improvisation</em> when Thordan's
-            dialogue box disappears.</li>
+            <li>Use this no earlier than when the cast-bar reaches the "C" in
+            <em>Cyclonic Break</em> to also help the MT for <em>Powder Mark
+            Trail</em>.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Burnished Glory #2</b></p>
+      <ul>
+        <li><em>Troubadour/Tactician/Shield Samba</em>
+          <ul>
+            <li>Use this after the second tether resolves in <em>Fall of
+            Faith</em> to cover the last two tethers and the initial hit from
+            <em>Burnished Glory</em>.</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td><b>P7. Dragonking Thordan</b></td>
     <td>
-      <p><b>Akh Morn's Edge #2</b></p>
+      <p><b>P2. Usurper of Frost</b></p>
+    </td>
+    <td>
+      <p><b>Sunburst Holy</b></p>
       <ul>
         <li><em>Troubadour/Tactician/Shield Samba</em>
           <ul>
-            <li>Use after the second auto-attack after <em>Exaflare's
-            Edge</em>.</li>
+            <li>Use this no earlier than when the star AoE puddles are dropped at
+            the start of <em>Diamond Dust</em> to cover all four <em>Sunburst
+            Holy</em> stacks.</li>
           </ul>
         </li>
       </ul>
-      <p><b>Akh Morn's Edge #3</b></p>
+      <p><b>Absolute Zero</b></p>
+      <ul>
+        <li><em>Troubadour/Tactician/Shield Samba</em></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P3. Oracle of Darkness</b></p>
+    </td>
+    <td>
+      <p><b>Spell in Waiting: Fire III #2 or #3</b></p>
+      <ul>
+        <li><em>Troubadour/Tactician/Shield Samba</em></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Gaia and Shiva</b></p>
+    </td>
+    <td>
+      <p><b>Darklit Dragonsong</b></p>
+      <ul>
+        <li><em>Troubadour/Tactician/Shield Samba</em></li>
+      </ul>
+      <p><b>Crystallize Time (Hallowed Wings)</b></p>
       <ul>
         <li><em>Troubadour/Tactician/Shield Samba</em>
           <ul>
-            <li>Use as soon as it's available.</li>
+            <li>Use this around the time the Oracle of Darkness jumps on
+            someone (<em>Spirit Taker</em>) just before the rewind
+            resolves.</li>
           </ul>
         </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Pandora</b></p>
+    </td>
+    <td>
+      <p><b>Polarizing Strikes #1</b></p>
+      <ul>
+        <li><em>Troubadour/Tactician/Shield Samba</em></li>
+      </ul>
+      <p><b>Polarizing Strikes #2</b></p>
+      <ul>
+        <li><em>Troubadour/Tactician/Shield Samba</em></li>
       </ul>
     </td>
   </tr>
@@ -1946,14 +1895,10 @@ This assumes D2 is a melee DPS.
 <table>
   <tr>
     <td>
-      <p><b>P2. Thordan</b></p>
+      <p><b>P1. Fatebreaker</b></p>
     </td>
     <td>
-      <p><b>Ancient Quaga</b></p>
-      <ul>
-        <li><em>Addle</em></li>
-      </ul>
-      <p><b>Ultimate End</b></p>
+      <p><b>Burnished Glory #1</b></p>
       <ul>
         <li><em>Addle</em></li>
       </ul>
@@ -1961,55 +1906,68 @@ This assumes D2 is a melee DPS.
   </tr>
   <tr>
     <td>
-      <p><b>P4. Eyes + Saving Haurchefant</b></p>
+      <p><b>P2. Usurper of Frost</b></p>
     </td>
     <td>
-      <p><b>Brightwing #4</b></p>
+      <p><b>Diamond Dust</b></p>
       <ul>
         <li><em>Addle</em></li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P5. Alternate Timeline Thordan</b></p>
-    </td>
-    <td>
-      <p>Notably, D4 shouldn't <em>Addle</em> the first <em>Ancient Quaga</em>
-      as it is already covered by D3. We prioritize D3 at the first
-      <em>Ancient Quaga</em> because we need it back to help the tanks with
-      <em>Heavenly Heel #2</em>.</p>
-      <p><b>Ancient Quaga #2</b></p>
-      <ul>
-        <li><em>Addle</em></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>P6. Double Dragons</b></p>
-    </td>
-    <td>
-      <p><b>Wroth Flames</b></p>
+      <p><b>Light Rampant</b></p>
       <ul>
         <li><em>Addle</em>
           <ul>
-            <li>Nidhogg will start out of range if it's the downtime
-            pattern. You can also use <em>Addle</em> at <em>Hallowed
-            Wings</em> #2 instead (on Hraesvelgr).</li>
+            <li>You can use this early to also cover the <em>Banish III</em>
+            stacks at the end of <em>Mirror, Mirror</em>.</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td><b>P7. Dragonking Thordan</b></td>
     <td>
-      <p><b>Gigaflare's Edge #1</b></p>
+      <p><b>P3. Oracle of Darkness</b></p>
+    </td>
+    <td>
+      <p><b>Shell Crusher → Shockwave Pulsar #1</b></p>
       <ul>
         <li><em>Addle</em></li>
       </ul>
-      <p><b>Akh Morn's Edge #3</b></p>
+      <p><b>Memory's End</b></p>
+      <ul>
+        <li><em>Addle</em></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Gaia and Shiva</b></p>
+    </td>
+    <td>
+      <p><b>Crystallize Time</b></p>
+      <ul>
+        <li><em>Addle</em>
+          <ul>
+            <li>Make sure you <em>Addle</em> the Oracle of Darkness.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Pandora</b></p>
+    </td>
+    <td>
+      <p><b>Akh Morn #1</b></p>
+      <ul>
+        <li><em>Addle</em></li>
+      </ul>
+      <p><b>Akh Morn #2</b></p>
+      <ul>
+        <li><em>Addle</em></li>
+      </ul>
+      <p><b>Akh Morn #3</b></p>
       <ul>
         <li><em>Addle</em></li>
       </ul>
