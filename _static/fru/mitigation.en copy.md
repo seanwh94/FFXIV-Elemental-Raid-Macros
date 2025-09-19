@@ -47,7 +47,7 @@ It is *not* a plan for PF and is made for my static; use it if you want, but I w
   </tr>
 </table>
 
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<div style="background-color: rgba(0, 0, 102, 1) ; padding: 10px; border: 1px solid;">
 <details markdown=block>
 <summary>
   <b>[Click to Expand] Mitigation Notation</b>
@@ -2004,23 +2004,39 @@ This assumes D2 is a melee DPS.
   </tr>
   <tr>
     <td>1. Start of P4</td>
-      <td>Both tanks should have stance on and Provoke Usurper of Frost.</td>
+      <td>
+      <li>Both tanks should have stance on and Provoke Usurper of Frost.</li>
+      <li>It does not matter who has main aggro as long as both tanks are at the top. </li>
+      <li>The tank with main aggro should position Usurper of Frost to the middle after she casts Materialization.</li>
+      </td>
   </tr>
   <tr>
     <td>2. Baiting Akh Rhai/Wings Appear</td>
-    <td>Both tanks turn off stance before running out of the Akh Rhai baits or before Oracle of Darkness appears. <b>DO NOT</b> turn on stance again for the rest of the phase.</td>
+    <td>
+    <li>Both tanks turn off stance before running out of the Akh Rhai baits or before Oracle of Darkness appears.</li>
+    <li><b>DO NOT</b> turn on stance again for the rest of the phase.</li>
+    </td>
   </tr>
   <tr>
     <td>3. During Somber Dance</td>
-    <td>Both tanks should press their Rampart before the 2nd hit of Somber Dance resolves. This is to ensure their Rampart is back up for the 2nd Akh Morn post-CT. </td>
+    <td>
+    <li>Both tanks should press their Rampart before the 2nd hit of Somber Dance resolves.</li>
+    <li>This is to ensure their Rampart is back up for the 2nd Akh Morn post-CT.</li>
+    </td>
   </tr>
   <tr>
     <td>4. Akh Morn</td>
-    <td>Both tanks stack south while party stays in the middle. Healers should give targeted mitigations if needed.</td>
+    <td>
+    <li>Both tanks stack south while party stays in the middle.</li>
+    <li>Healers should give targeted mitigations if needed.</li>
+    </td>
   </tr>
   <tr>
     <td>5. After Crystallize Time</td>
-    <td>Both tanks go south again while the party stays middle. Use Rampart when available. Again, healers should give targeted mitigations if needed.</td>
+    <td>
+    <li>Both tanks go south again while the party stays middle. Use Rampart when available.</li>
+    <li>Again, healers should give targeted mitigations if needed.</li>
+    </td>
   </tr>
 </table>
 </details>
@@ -2079,10 +2095,13 @@ Both strats have positives and negatives, but it's easier for me to call out in 
   <tr>
     <td>
 I don't like 4:4 CW and most of the prog groups I've joined have consistently wiped to it due to multiple reasons.
-    <li>1 person being too far away thus messing up the tethers.</li>
+    <ul>
+    <li>One party member being too far away thus messing up the tethers.</li>
     <li>Not having designated spots that the party can use to stand around.</li>
     <li>It's hard for me to explain quickly where people should stand without pulling up a video or diagram.</li>
-    <li>The 4:4 positions aren't natural as you have to be in your clockspots after you resolve it.</li>
+    <li>The 4:4 positions aren't natural as you have to be in your clockspots after you resolve it. Zieziezip solves this by having you already pre-positioned in your clockspots pre-Light Rampant.</li>
+    </ul>
+    Examples <a href="https://www.twitch.tv/seanwh/clip/CuriousTameStrawberryStrawBeary-1g959Ae6Tm-Q-jZN">here</a>, <a href="https://www.twitch.tv/seanwh/clip/AstuteTrappedSowYouWHY-gEKTBP94JTfV_-ua">here</a>, and <a href="https://www.twitch.tv/seanwh/clip/AbstruseBoredRavenSMOrc-2lDyhVxSxBj99FX1">here</a>.
     </td>
   </tr>
 </table>
@@ -2104,6 +2123,27 @@ I prefer a fixed lineup, and since P1 and Apocalypse also has H2 anchor, there's
 </details>
 
 ## P4
+
+<details markdown=block>
+<summary>
+  <b>[Darklit Dragonsong]</b> Why vertical over horizontal?
+</summary>
+<table>
+  <tr>
+    <td>
+This solves multiple problems. A few of them are
+<ul>
+  <li>Both tanks can hit Oracle of Darkness when she spawns.</li>
+  <li>DPS and Supports never have to cross over to the opposite side to bait proteans, thus removing ambiguity on which player crosses.</li>
+  <li>Lowers the chances of having trapezium tethers due to players being too close to each other.</li>
+  <li>This also lowers ambiguity with the stacks.</li>
+  <li>Callouts are easier for me here, as there's either normal(stretched), DPS swap, and rotate, where all tethers rotate 90 degress.</li>
+</ul>
+    </td>
+  </tr>
+</table>
+</details>
+
 <details markdown=block>
 <summary>
   <b>[Morn Afah]</b> Which boss casts Morn Afah?
