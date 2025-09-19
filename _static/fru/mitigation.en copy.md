@@ -125,8 +125,6 @@ casters.
 
 ### P1. Fatebreaker
 
-#
-
 <table>
   <tr>
     <td>
