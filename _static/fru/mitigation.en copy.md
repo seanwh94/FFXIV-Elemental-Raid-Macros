@@ -13,7 +13,7 @@ permalink: /elemental/dsr/mitigation/
 
 The following is a mitigation framework for the encounter.
 
-### It is *not* a plan for PF and is made for my static; use it if you want, but I will not be responsible for people dying due to this mitplan not being what PF follows. This is a work-in-progress.
+It is *not* a plan for PF and is made for my static; use it if you want, but I will not be responsible for people dying due to this mitplan not being what PF follows. This is a work-in-progress.
 
 <table>
   <th width="50%">Mitigation by Phase</th>
@@ -23,7 +23,7 @@ The following is a mitigation framework for the encounter.
       <ul>
         <li><a href="#p1-fatebreaker">P1. Fatebreaker</a></li>
         <li><a href="#p2-usurper-of-frost">P2. Usurper of Frost</a></li>
-        <li><a href="#p3-gaia">P3. Oracle of Darkness</a></li>
+        <li><a href="#p3-oracle-of-darkness">P3. Oracle of Darkness</a></li>
         <li><a href="#p4-gaia-and-shiva">P4. Gaia and Shiva</a></li>
         <li><a href="#p5-pandora">P5. Pandora</a></li>
       </ul>
@@ -245,8 +245,7 @@ casters.
   <tr>
     <td>
       <p>Powder Mark Trail 2</p>
-      <ul>
-      </ul>
+      <ul></ul>
     </td>
     <td>
       <ul>
@@ -267,8 +266,7 @@ casters.
     <td>
       <p>Quadruple Slap</p>
       <ul>
-        <li><b>P:</b> k</li>
-        <li><b>M:</b> k</li>
+        <li></li>
       </ul>
     </td>
     <td>
@@ -278,84 +276,13 @@ casters.
     </td>
     <td>
       <ul>
-        <li>Tank swap here so that the MT doesn't die to autos after. The <b>MT</b> can provoke back when she is casting <em>Diamond Dust</em>.</li>
-        <li>A bard can precast <em>The Warden's Paean</em> on the MT so that the Physical Vuln gets removed.</li>
+        <li>Tank swap here so the MT doesn't die to autos after the invuln falls off.</li>
+        <li>The MT can provoke back when Diamond Dust is being cast.</li>
+        <li>A bard can pre-cast <em>The Warden's Paean</em> to remove the Physical Vuln on the tank taking the buster.</li>
       </ul>
     </td>
   </tr>
-  <tr>
-    <td>
-      <p>Diamond Dust</p>
-      <ul>
-        <li><b>P:</b> k</li>
-        <li><b>M:</b> k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>MT Reprisal</li>
-        <li></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Sinbound Holy</p>
-      <ul>
-        <li><b>P:</b> k</li>
-        <li><b>M:</b> k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>ST 90s</li>
-        <li>H2 90s</li>
-        <li>D3</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Add any extra mitigations and abilities that help with healing here.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Hallowed Ray</p>
-      <ul>
-        <li><b>T:</b> k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>ST Reprisal</li>
-        <li>H2 30s</li>
-        <li>D1, D4</li>
-      </ul>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>
-      <p>Mirror Mirror</p>
-      <ul>
-        <li><b>T:</b> k</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>H1, H2 120s</li>
-        <li></li>
-        <li></li>
-      </ul>
-    </td>
-    <td></td>
-  </tr>
-</table>
+  </table>
 
 ### P3. Oracle of Darkness
 
