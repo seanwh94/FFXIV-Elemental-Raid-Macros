@@ -85,7 +85,7 @@ It is *not* a plan for PF and is made for my static; use it if you want, but I w
     <td>H2 120s</td>
     <td>Expedient, Holos</td>
   </tr>
-  tr>
+  <tr>
     <td>H2 180s</td>
     <td>Seraphism, Philosophia</td>
   </tr>
@@ -680,14 +680,15 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
     </td>
     <td>
       <ul>
-        <li>MT Reprisal</li>
+        <li>MT Reprisal, MT Rampart + Short</li>
+        <li>ST Rampart+Short</li>
         <li>H2 30s</li>
         <li>D1</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>The tanks will be doing 6:2 Akh Morns, please refer to https://youtu.be/-VxtY77u_GU?t=616 for further details.</li>
+        <li>The tanks will be doing 6:2 Akh Morns, please refer to <a href="https://youtu.be/-VxtY77u_GU?t=616">6:2 Akh Morns MT</a> or <a href="https://youtu.be/pAJqdC7gC5I?t=620">6:2 Akh Morns ST</a> for further details.</li>
         <li>H2 30s should be used <em>immediately</em> after the 2nd hit of Somber Dance so that it's back up for Crystallize Time.</li>
         <li>Targeted debuffs should be used on Usurper of Frost.</li>
       </ul>
@@ -974,9 +975,19 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
 
 ## Mitigation by Role
 
-### MT
+## Work In Progress, do not use this
+<details markdown=block>
+<summary>
+  <b>Mitigations</b>
+</summary>
+<table>
+  <tr>
+    <td>
+    </td>
+  </tr>
+</table>
 
-Work In Progress
+### MT
 
 <table>
   <tr>
@@ -1976,3 +1987,193 @@ This assumes D2 is a melee DPS.
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+</table>
+</details>
+
+## How do I do 6:2 Akh Morns?
+
+<div style="background-color: rgba(0, 0, 117, 1) ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary>
+  <b>[Click to Expand] The Details</b>
+</summary>
+<table>
+  <tr>
+    <td>1. Start of P4</td>
+      <td>Both tanks should have stance on and Provoke Usurper.</td>
+  </tr>
+  <tr>
+    <td>2. Baiting Akh Rhai/Wings Appear</td>
+    <td>Both tanks turn off stance. <b>DO NOT</b> turn on stance again for the rest of the phase.</td>
+  </tr>
+  <tr>
+    <td>3. During Somber Dance</td>
+    <td>Both tanks should press their Rampart just before the 2nd hit of Somber Dance resolves. This is to ensure their Rampart is back up for the 2nd Akh Morn post-CT. </td>
+  </tr>
+  <tr>
+    <td>4. Akh Morn</td>
+    <td>Both tanks stack south while party stays in the middle.</td>
+  </tr>
+  <tr>
+    <td>5. After Crystallize Time</td>
+    <td>Both tanks go south again while the party stays middle. Use Rampart when available.</td>
+  </tr>
+</table>
+</details>
+</div>
+
+## F.A.Q. and Troubleshooting
+
+## P1
+
+<details markdown=block>
+<summary>
+  <b>[Fall of Faith]</b> Why do I have H2 anchor at the north?
+</summary>
+<table>
+  <tr>
+    <td>
+It works out better since the H1 is closer to the party and can heal them up during the bleed.
+    </td>
+  </tr>
+</table>
+</details>
+
+## P2
+
+<details markdown=block>
+<summary>
+  <b>[Sinbound Holy]</b> Why is my group doing Sinbound Holy differently compared to PF?
+</summary>
+<table>
+  <tr>
+    <td>
+I do not like the small amount of safe space that I get from doing the PF strat. Sometimes both healers move too fast and the party get "venn diagram-ed".
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Sinbound Holy]</b> Isn't the "mostly clockwise" strat bad because you have to move at different speeds to resolve Sinbound Holy depending on the angle?
+</summary>
+<table>
+  <tr>
+    <td>
+Both strats have positives and negatives, but it's easier for me to call out in a static as the "clockwise" or "counterclockwise" applies to both sides, and the slow/fast movement callout also applies.
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Light Rampant]</b> Why is my group doing the Zieziezip version of Light Rampant?
+</summary>
+<table>
+  <tr>
+    <td>
+I don't like 4:4 CW and most of the prog groups I've joined have consistently wiped to it due to multiple reasons.
+    <li>1 person being too far away thus messing up the tethers.</li>
+    <li>Not having designated spots that the party can use to stand around.</li>
+    <li>It's hard for me to explain quickly where people should stand without pulling up a video or diagram.</li>
+    <li>The 4:4 positions aren't natural as you have to be in your clockspots after you resolve it.</li>
+    </td>
+  </tr>
+</table>
+</details>
+
+## P3
+
+<details markdown=block>
+<summary>
+  <b>[Ultimate Relativity]</b> Why do I have H2 anchor in Ultimate Relativity?
+</summary>
+<table>
+  <tr>
+    <td>
+I prefer a fixed lineup, and since P1 and Apocalypse also has H2 anchor, there's no reason to change the lineup.
+    </td>
+  </tr>
+</table>
+</details>
+
+## P4
+<details markdown=block>
+<summary>
+  <b>[Morn Afah]</b> Which boss casts Morn Afah?
+</summary>
+<table>
+  <tr>
+    <td>
+Usurper of Frost. The tank with the highest aggro on Usurper of Frost can sacrifice themselves if the HP isn't balanced in time.
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Akh Morn]</b> What decides who gets targeted by Akh Morns?
+</summary>
+<table>
+  <tr>
+    <td>
+Usurper of Frost targets the higest aggro on her for 1 Akh Morn while Oracle of Darkness targets the highest aggro on her for the other Akh Morn.
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[6:2 vs 7:1]</b> Why do 6:2 when 7:1 is perfectly fine?
+</summary>
+<table>
+  <tr>
+    <td>
+The reason to do this is a failsafe in the situation where 1 tanks dies during Crystallize time, which happens quite often during prog. The other tank still only has aggro on Usurper of Frost while the rest of the party will have aggro on Oracle of Darkness, thus resolving the 2nd set of Akh Morns 6:1 instead.
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Autos and Aggro]</b> What about autos from Oracle of Darkness?
+</summary>
+<table>
+  <tr>
+    <td>
+Oracle does not auto-attack throughout the phase, only Usurper of Frost, and only before Crystallize Time. 
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Crystallize Time]</b> A tank died during Crystallize Time, are we wiping? 
+</summary>
+<table>
+  <tr>
+    <td>
+No, because both tanks only has aggro on Usurper of Frost, the Akh Morns will still resolve on 1 tank and the other on the rest of the party.
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Stance and Aggro]</b> Do I have to turn stance on if 1 tank dies?
+</summary>
+<table>
+  <tr>
+    <td>
+No, because any hit can generate enough aggro on Oracle of Darkness that you now will have aggro on both targets. You can Provoke Usurper of Frost <b>without</b> stance activated if you died during CT.
+    </td>
+  </tr>
+</table>
+</details>
