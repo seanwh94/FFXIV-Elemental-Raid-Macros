@@ -1,12 +1,12 @@
 ---
 layout: default
 title: A. Mitigation
-parent: Lv 90. DSR
-nav_order: 9
+parent: Lv 100. FRU
+nav_order: 7
 has_children: false
 has_toc: false
 
-permalink: /elemental/dsr/mitigation/
+permalink: /elemental/_static/fru/mitigation.en%20copy.md
 ---
 
 # Appendix A: Mitigation
@@ -300,6 +300,7 @@ casters.
         <li>D2</li>
       </ul>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>
@@ -330,6 +331,7 @@ casters.
         <li>D1, D4</li>
       </ul>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>
