@@ -687,6 +687,7 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
     </td>
     <td>
       <ul>
+        <li>The tanks will be doing 6:2 Akh Morns, please refer to https://youtu.be/-VxtY77u_GU?t=616 for further details.</li>
         <li>H2 30s should be used <em>immediately</em> after the 2nd hit of Somber Dance so that it's back up for Crystallize Time.</li>
         <li>Targeted debuffs should be used on Usurper of Frost.</li>
       </ul>
@@ -952,8 +953,6 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
       <ul>
         </il>This should ideally also be covered by ST Reprisal.</li>
       </ul>
-    </td>
-    <td>
     </td>
   </tr>
   <tr>
