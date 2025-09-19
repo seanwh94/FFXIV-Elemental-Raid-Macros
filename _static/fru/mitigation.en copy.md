@@ -2135,8 +2135,8 @@ This solves multiple problems. A few of them are
 <ul>
   <li>Both tanks can hit Oracle of Darkness when she spawns.</li>
   <li>DPS and Supports never have to cross over to the opposite side to bait proteans, thus removing ambiguity on which player crosses.</li>
-  <li>Lowers the chances of having trapezium tethers due to players being too close to each other.</li>
   <li>This also lowers ambiguity with the stacks.</li>
+  <li>Lowers the chances of having trapezium tethers due to players being too close to each other.</li>
   <li>Callouts are easier for me here, as there's either normal(stretched), DPS swap, and rotate, where all tethers rotate 90 degress.</li>
 </ul>
     </td>
