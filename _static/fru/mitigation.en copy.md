@@ -976,6 +976,7 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
 ## Mitigation by Role
 
 ## Work In Progress, do not use this
+
 <details markdown=block>
 <summary>
   <b>Mitigations</b>
@@ -1999,24 +2000,27 @@ This assumes D2 is a melee DPS.
 </summary>
 <table>
   <tr>
+    Please refer to <a href="https://youtu.be/-VxtY77u_GU?t=616">6:2 Akh Morns MT</a> or <a href="https://youtu.be/pAJqdC7gC5I?t=620">6:2 Akh Morns ST</a> for a video of how it's done
+  </tr>
+  <tr>
     <td>1. Start of P4</td>
-      <td>Both tanks should have stance on and Provoke Usurper.</td>
+      <td>Both tanks should have stance on and Provoke Usurper of Frost.</td>
   </tr>
   <tr>
     <td>2. Baiting Akh Rhai/Wings Appear</td>
-    <td>Both tanks turn off stance. <b>DO NOT</b> turn on stance again for the rest of the phase.</td>
+    <td>Both tanks turn off stance before running out of the Akh Rhai baits or before Oracle of Darkness appears. <b>DO NOT</b> turn on stance again for the rest of the phase.</td>
   </tr>
   <tr>
     <td>3. During Somber Dance</td>
-    <td>Both tanks should press their Rampart just before the 2nd hit of Somber Dance resolves. This is to ensure their Rampart is back up for the 2nd Akh Morn post-CT. </td>
+    <td>Both tanks should press their Rampart before the 2nd hit of Somber Dance resolves. This is to ensure their Rampart is back up for the 2nd Akh Morn post-CT. </td>
   </tr>
   <tr>
     <td>4. Akh Morn</td>
-    <td>Both tanks stack south while party stays in the middle.</td>
+    <td>Both tanks stack south while party stays in the middle. Healers should give targeted mitigations if needed.</td>
   </tr>
   <tr>
     <td>5. After Crystallize Time</td>
-    <td>Both tanks go south again while the party stays middle. Use Rampart when available.</td>
+    <td>Both tanks go south again while the party stays middle. Use Rampart when available. Again, healers should give targeted mitigations if needed.</td>
   </tr>
 </table>
 </details>
@@ -2173,6 +2177,22 @@ No, because both tanks only has aggro on Usurper of Frost, the Akh Morns will st
   <tr>
     <td>
 No, because any hit can generate enough aggro on Oracle of Darkness that you now will have aggro on both targets. You can Provoke Usurper of Frost <b>without</b> stance activated if you died during CT.
+    </td>
+  </tr>
+</table>
+</details>
+
+## P5
+
+<details markdown=block>
+<summary>
+  <b>[Polarizing Strikes #2]</b> Why do I have the ST reprisal late in Polarizing Strikes #2?
+</summary>
+<table>
+  <tr>
+    <td>
+There's a problem with the final part of P5 where there is no filler mechanic between Polarizing Strikes #2 going into Fulgent Blade #3 and Akh Morn #3. Since Polarizing Strikes isn't a 1-shot mechanic, I can just heal through the early part of that while ensuring my party has enough mitigations for the rest of the phase. 
+This is not a problem with Scholar however, as they have extra mitigations available.
     </td>
   </tr>
 </table>
