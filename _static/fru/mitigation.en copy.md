@@ -2017,37 +2017,47 @@ This assumes D2 is a melee DPS.
   <tr>
     <td>1. Start of P4</td>
       <td>
+      <ul>
       <li>Both tanks should have stance on and Provoke Usurper of Frost.</li>
       <li>It does not matter who has main aggro as long as both tanks are at the top. </li>
       <li>The tank with main aggro should position Usurper of Frost to the middle after she casts Materialization.</li>
+      </ul>
       </td>
   </tr>
   <tr>
     <td>2. Baiting Akh Rhai/Wings Appear</td>
     <td>
+    <ul>
     <li>Both tanks turn off stance before running out of the Akh Rhai baits or before Oracle of Darkness appears.</li>
     <li><b>DO NOT</b> turn on stance again for the rest of the phase.</li>
+    </ul>
     </td>
   </tr>
   <tr>
     <td>3. During Somber Dance</td>
     <td>
+    <ul>
     <li>Both tanks should press their Rampart before the 2nd hit of Somber Dance resolves.</li>
     <li>This is to ensure their Rampart is back up for the 2nd Akh Morn post-CT.</li>
+    </ul>
     </td>
   </tr>
   <tr>
     <td>4. Akh Morn</td>
     <td>
+    <ul>
     <li>Both tanks stack south while party stays in the middle.</li>
     <li>Healers should give targeted mitigations if needed.</li>
+    </ul>
     </td>
   </tr>
   <tr>
     <td>5. After Crystallize Time</td>
     <td>
+    <ul>
     <li>Both tanks go south again while the party stays middle. Use Rampart when available.</li>
     <li>Again, healers should give targeted mitigations if needed.</li>
+    </ul>
     </td>
   </tr>
 </table>
