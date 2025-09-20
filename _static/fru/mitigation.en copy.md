@@ -138,7 +138,7 @@ casters.
         <li>MT Reprisal, MT 90s </li>
         <li><b>MT</b> 40%</li>
         <li>H2 30s</li>
-        <li>D1, D4</li>
+        <li>D1, D3</li>
       </ul>
     </td>
     <td>
@@ -201,7 +201,7 @@ casters.
         <li>MT Reprisal</li>
         <li>ST 90s </li>
         <li>H1 180s, H2 30s + 120s</li>
-        <li>D2, D3</li>
+        <li>D2, D4</li>
       </ul>
     </td>
     <td>
@@ -239,10 +239,14 @@ casters.
     </td>
     <td>
       <ul>
-        <li>ST Reprisal, MT 90s, H2 30s, D1, D4</li>
+        <li>ST Reprisal, MT 90s, H2 30s, D1, D3</li>
       </ul>
     </td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Press <b>D3</b> mitigations immediately after the 2nd tether of Fall of Faith resolves.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
@@ -298,7 +302,7 @@ casters.
       <ul>
         <li>MT Reprisal</li>
         <li>H2 30s</li>
-        <li>D2</li>
+        <li>D2, D4</li>
       </ul>
     </td>
     <td></td>
@@ -329,7 +333,7 @@ casters.
       <ul>
         <li>ST Reprisal</li>
         <li>H2 30s</li>
-        <li>D1, D4</li>
+        <li>D1</li>
       </ul>
     </td>
     <td></td>
@@ -357,7 +361,7 @@ casters.
       <ul>
         <li>MT Reprisal</li>
         <li>H1 120s, H2 30s</li>
-        <li>D2</li>
+        <li>D2, D4</li>
       </ul>
     </td>
     <td>
@@ -374,6 +378,7 @@ casters.
     </td>
     <td>
       <ul>
+        <li>MT 90s</li>
         <li>H1 180s</li>
       </ul>
     </td>
@@ -394,7 +399,7 @@ casters.
       <ul>
         <li>ST Reprisal</li>
         <li>H2 30s. H2 90s</li>
-        <li>D1, D4</li>
+        <li>D1</li>
       </ul>
     </td>
     <td>
@@ -412,6 +417,7 @@ casters.
         <li>MT Reprisal</li>
         <li>ST 90s</li>
         <li>H2 120s</li>
+        <li>D3</li>
       </ul>
     </td>
     <td>
@@ -474,7 +480,7 @@ casters.
     </td>
     <td>
       <ul>
-        <li>H2 30s</li>
+        <li>H2 30s, H2 120s</li>
         <li>D1, D4</li>
       </ul>
     </td>
@@ -518,7 +524,7 @@ casters.
     <td>
       <ul>
         <li>ST 90s</li>
-        <li>H1 180s, H2 120s</li>
+        <li>H1 180s</li>
         <li>D3</li>
       </ul>
     </td>
@@ -545,6 +551,7 @@ casters.
     </td>
     <td>
       <ul>
+        <li>ST Reprisal if the MT does not have it available.</li>
       </ul>
     </td>
   </tr>
@@ -607,12 +614,13 @@ casters.
     <td>
       <ul>
         <li>MT Reprisal</li>
-        <li>H2 30s</li>
+        <li>H2 30s, H2 120s</li>
         <li>D1, D4</li>
       </ul>
     </td>
     <td>
       <ul>
+        <li>The latest the 120s mitigations can be cast and be up for Crystallize Time is during the <em>Shockwave Pulsar</em> cast.</li>
         <li>Mitigations should be used as late into the castbar as possible to cover both Shockwave Pulsar and Memory's End.</li>
         <li>In the situation that you have difficulty timing the mitigations, use it late instead to only cover Memory's End as that one hurts more.</li>
       </ul>
