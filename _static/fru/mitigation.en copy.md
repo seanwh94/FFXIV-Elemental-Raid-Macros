@@ -2088,7 +2088,7 @@ It works out better since the H1 is closer to the party and can heal them up dur
 <table>
   <tr>
     <td>
-I do not like the small amount of safe space that I get from doing the PF strat. Sometimes both healers move too fast and the party get "venn diagram-ed".
+I do not like the small amount of safe space that I get from doing the PF strat. Sometimes both healers move too fast and the party gets "venn diagram-ed".
     </td>
   </tr>
 </table>
