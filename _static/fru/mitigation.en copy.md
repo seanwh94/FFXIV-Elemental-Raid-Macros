@@ -311,7 +311,7 @@ casters.
     <td>
     <ul>
       <li>ST 90s</li>
-      <li>H2 30s</li>
+      <li>H2 90s</li>
       <li>D3</li>
     </ul>
     </td>
@@ -356,7 +356,7 @@ casters.
     <td>
       <ul>
         <li>MT Reprisal</li>
-        <li>H2 30s</li>
+        <li>H1 120s, H2 30s</li>
         <li>D2</li>
       </ul>
     </td>
@@ -374,13 +374,14 @@ casters.
     </td>
     <td>
       <ul>
-        <li>H1 120s, H1 180s</li>
+        <li>H1 180s</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Previous targeted mits will cover both <em>Banish III</em> and <em>Light Rampant</em>.</li>
         <li>H1 180s should be used post cast to cover the puddle drops and stacks.</li>
+        <li>Also covered by H1 120s</li>
         <li>MT can use their 90s here to cover the cast or after to cover the puddles and stack.</li>
       </ul>
     </td>
@@ -495,11 +496,13 @@ casters.
       <ul>
         <li>MT 90s</li>
         <li>ST Reprisal</li>
+        <li>H1 120s</li>
         <li>H2 90s</li>
       </ul>
     </td>
     <td>
       <ul>
+      <li>H2 180s can be used here or after this set if needed.</li>
       </ul>
     </td>
   </tr>
@@ -531,6 +534,7 @@ casters.
     <td>
       <ul>
         <li>MT Reprisal</li>
+        <li>H2 30s</li>
         <li>D2</li>
       </ul>
     </td>
@@ -649,7 +653,7 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
     </td>
     <td>
       <ul>
-        <li>Also covered my H1 120s.</li>
+        <li>Also covered by H1 120s (<em>Divine Caress</em> and <em>Sunsign</em>).</li>
         <li>Targeted debuffs should be used on Usurper of Frost.</li>
       </ul>
     </td>
@@ -690,6 +694,7 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
       <ul>
         <li>The tanks will be doing 6:2 Akh Morns, please refer to <a href="#how-do-i-do-62-akh-morns">here</a> for a written explanation or <a href="https://youtu.be/-VxtY77u_GU?t=616">6:2 Akh Morns MT</a> or <a href="https://youtu.be/pAJqdC7gC5I?t=620">6:2 Akh Morns ST</a> for a video.</li>
         <li>H2 30s should be used <em>immediately</em> after the 2nd hit of Somber Dance so that it's back up for Crystallize Time.</li>
+        <li>A Sage may opt to use <em>Philosophia</em> or <em>Panhaima</em> here.</li>
         <li>Targeted debuffs should be used on Usurper of Frost.</li>
       </ul>
     </td>
@@ -705,14 +710,14 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
     <td>
       <ul>
         <li>ST Reprisal, ST 90s</li>
-        <li>H2 30s, H2 120s</li>
+        <li>H2 30s, H2 90s, H2 120s</li>
         <li>D2, D3, D4</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Targeted debuffs should be used on Oracle of Darkness.</li>
-        <li><b><em>H2</em></b> 120s and <b><em>D3</em></b> mits should be used late <em>after</em> the Crystallize time damage goes out to cover the mechanic itself.</li>
+        <li><b>H2</b> 90s, 120s and <b>D3</b> mits should be used late <em>after</em> the Crystallize time damage goes out to cover the mechanic itself.</li>
       </ul>
     </td>
   </tr>
@@ -747,6 +752,7 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
     <td>
       <ul>
         <li>Use any remaining mitigations here.</li>
+        <li>A Sage may opt to use <em>Philosophia</em> or <em>Panhaima</em> here.</li>
       </ul>
     </td>
   </tr>
@@ -934,7 +940,7 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
     <td>
       <ul>
         <li>ST Reprisal should be used after the 2nd hit for it to cover Fulgent Blade #3.</li>
-        <li>If H2 120s are used right after the 2nd auto after Wings of Dark and Light #1, they will have theirs available here as well.</li>
+        <li>If 120s mitigations are used right after the 2nd auto after Wings of Dark and Light #1, they will have theirs available here as well.</li>
       </ul>
     </td>
   </tr>
@@ -1990,6 +1996,8 @@ This assumes D2 is a melee DPS.
 </table>
 </details>
 
+## F.A.Q. and Troubleshooting
+
 ## How do I do 6:2 Akh Morns?
 
 <div style="background-color: rgba(0, 0, 117, 1) ; padding: 10px; border: 1px solid;">
@@ -1999,7 +2007,7 @@ This assumes D2 is a melee DPS.
 </summary>
 <table>
   <tr>
-    Please refer to <a href="https://youtu.be/-VxtY77u_GU?t=616">6:2 Akh Morns MT</a> or <a href="https://youtu.be/pAJqdC7gC5I?t=620">6:2 Akh Morns ST</a> for a video of how it's done
+    Please refer to <a href="https://youtu.be/-VxtY77u_GU?t=616">6:2 Akh Morns MT</a> or <a href="https://youtu.be/pAJqdC7gC5I?t=620">6:2 Akh Morns ST</a> for a video of how it's done.
   </tr>
   <tr>
     <td>1. Start of P4</td>
@@ -2040,8 +2048,6 @@ This assumes D2 is a melee DPS.
 </table>
 </details>
 </div>
-
-## F.A.Q. and Troubleshooting
 
 ## P1
 
