@@ -502,6 +502,7 @@ casters.
     </td>
     <td>
       <ul>
+      <li>H1 may opt to move their 120s if a Scholar uses their spreadlo on this set.</li>
       <li>H2 180s can be used here or after this set if needed.</li>
       </ul>
     </td>
@@ -521,7 +522,11 @@ casters.
         <li>D3</li>
       </ul>
     </td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Regens and abilities that help with healing can be used here.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
@@ -554,7 +559,7 @@ casters.
     </td>
     <td>
       <ul>
-        <li>ST should give their MT their buddy mit here.<li>
+        <li>ST should give their MT their buddy mit here.</li>
       </ul>
     </td>
   </tr>
