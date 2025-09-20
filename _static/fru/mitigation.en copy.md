@@ -501,7 +501,6 @@ casters.
     <td>
       <ul>
         <li>MT 90s</li>
-        <li>ST Reprisal</li>
         <li>H1 120s</li>
         <li>H2 90s</li>
       </ul>
@@ -544,14 +543,13 @@ casters.
     </td>
     <td>
       <ul>
-        <li>MT Reprisal</li>
+        <li>ST Reprisal</li>
         <li>H2 30s</li>
         <li>D2</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>ST Reprisal if the MT does not have it available.</li>
       </ul>
     </td>
   </tr>
@@ -597,7 +595,6 @@ casters.
     <td>
       <ul>
         <li>ST Kitchen Sink</li>
-        <li>ST Reprisal</li>
       </ul>
     </td>
     <td>
