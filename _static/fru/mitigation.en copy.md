@@ -121,7 +121,7 @@ casters.
 - Tanks have 230k max HP.
 - Physical DPS jobs have 161k max HP.
 - Magical jobs have 144k max HP.
-- Basic shields *(Succor, Eukrasian Prognosis)* absorb ?k damage.
+- Basic shields *(Succor, Eukrasian Prognosis)* absorb 20k damage.
 
 ### P1. Fatebreaker
 
@@ -688,7 +688,7 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
     </td>
     <td>
       <ul>
-        <li>The tanks will be doing 6:2 Akh Morns, please refer to <a href="https://youtu.be/-VxtY77u_GU?t=616">6:2 Akh Morns MT</a> or <a href="https://youtu.be/pAJqdC7gC5I?t=620">6:2 Akh Morns ST</a> for further details.</li>
+        <li>The tanks will be doing 6:2 Akh Morns, please refer to <a href="#how-do-i-do-62-akh-morns">here</a> for a written explanation or <a href="https://youtu.be/-VxtY77u_GU?t=616">6:2 Akh Morns MT</a> or <a href="https://youtu.be/pAJqdC7gC5I?t=620">6:2 Akh Morns ST</a> for a video.</li>
         <li>H2 30s should be used <em>immediately</em> after the 2nd hit of Somber Dance so that it's back up for Crystallize Time.</li>
         <li>Targeted debuffs should be used on Usurper of Frost.</li>
       </ul>
@@ -705,9 +705,8 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
     <td>
       <ul>
         <li>ST Reprisal, ST 90s</li>
-        <li>H2 30s</li>
-        <li>D2, D4</li>
-        <li><b>H2 120s, D3</b></li>
+        <li>H2 30s, H2 120s</li>
+        <li>D2, D3, D4</li>
       </ul>
     </td>
     <td>
