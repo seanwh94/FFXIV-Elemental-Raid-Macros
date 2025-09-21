@@ -239,7 +239,10 @@ casters.
     </td>
     <td>
       <ul>
-        <li>ST Reprisal, MT 90s, H2 30s, D1, D3</li>
+        <li>ST Reprisal</li>
+        <li> MT 90s</li>
+        <li>H2 30s</li>
+        <li>D1, D3</li>
       </ul>
     </td>
     <td>
@@ -305,7 +308,10 @@ casters.
         <li>D2, D4</li>
       </ul>
     </td>
-    <td></td>
+    <td>
+      <ul>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
