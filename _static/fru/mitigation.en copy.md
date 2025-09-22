@@ -143,7 +143,7 @@ casters.
     </td>
     <td>
       <ul>
-        <li>Use 40%, 90s, D1D4 late into the castbar to cover both Cyclonic Break and Powder Mark Trail.</li>
+        <li>Use 40%, 90s, D1D3 late into the castbar to cover both Cyclonic Break and Powder Mark Trail.</li>
       </ul>
     </td>
   </tr>
@@ -207,7 +207,7 @@ casters.
     <td>
       <ul>
         <li>ST holds aggro here.</li>
-        <li>Use ST, H2 and D3 mits early to cover both <em>Sinsmoke</em> and <em>Burnished Glory</em>.</li>
+        <li>Use ST and H2  mits early to cover both <em>Sinsmoke</em> and <em>Burnished Glory</em>.</li>
       </ul>
     </td>
   </tr>
@@ -665,6 +665,7 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
       <ul>
         <li>MT 90s</li>
         <li>ST Reprisal</li>
+        <li>D3</li>
       </ul>
     </td>
     <td>
@@ -727,13 +728,13 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
       <ul>
         <li>ST Reprisal, ST 90s</li>
         <li>H2 30s, H2 90s, H2 120s</li>
-        <li>D2, D3, D4</li>
+        <li>D2, D4</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Targeted debuffs should be used on Oracle of Darkness.</li>
-        <li><b>H2</b> 90s, 120s and <b>D3</b> mits should be used late <em>after</em> the Crystallize time damage goes out to cover the mechanic itself.</li>
+        <li><b>H2</b> 90s, 120s mits should be used late <em>after</em> the Crystallize time damage goes out to cover the mechanic itself.</li>
       </ul>
     </td>
   </tr>
