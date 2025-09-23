@@ -665,7 +665,6 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
       <ul>
         <li>MT 90s</li>
         <li>ST Reprisal</li>
-        <li>D3</li>
       </ul>
     </td>
     <td>
@@ -704,7 +703,7 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
         <li>MT Reprisal, MT Rampart + Short</li>
         <li>ST Rampart+Short</li>
         <li>H2 30s</li>
-        <li>D1</li>
+        <li>D1, D3</li>
       </ul>
     </td>
     <td>
@@ -734,6 +733,7 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
     <td>
       <ul>
         <li>Targeted debuffs should be used on Oracle of Darkness.</li>
+        <ll>ST 90s should be used as late as possible to cover the early part of Crystallize Time.</li>
         <li><b>H2</b> 90s, 120s mits should be used late <em>after</em> the Crystallize time damage goes out to cover the mechanic itself.</li>
       </ul>
     </td>
@@ -764,12 +764,14 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
         <li>MT Reprisal, MT 90s</li>
         <li>H1 120s, H2 30s</li>
         <li>D2</li>
+        <li>D3</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Use any remaining mitigations here.</li>
         <li>A Sage may opt to use <em>Philosophia</em> or <em>Panhaima</em> here.</li>
+        <li>D3 mitigations will be up at the last second.</li>
       </ul>
     </td>
   </tr>
