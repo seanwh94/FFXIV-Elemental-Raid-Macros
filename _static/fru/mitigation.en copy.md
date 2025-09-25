@@ -226,6 +226,7 @@ casters.
     </td>
     <td>
       <ul>
+        <li>Supplement with extra mitigatations (<em>Fey Illumination</em>/<em>Panhaima</em>) here.
       </ul>
     </td>
   </tr>
@@ -247,7 +248,7 @@ casters.
     </td>
     <td>
       <ul>
-        <li>Press <b>D3</b> mitigations immediately after the 2nd tether of Fall of Faith resolves.</li>
+        <li>Press <b>D3</b> mitigations immediately after the 2nd tether of Fall of Faith resolves for it to be up for Sinbound Holy.</li>
       </ul>
     </td>
   </tr>
@@ -392,7 +393,7 @@ casters.
       <ul>
         <li>Previous targeted mits will cover both <em>Banish III</em> and <em>Light Rampant</em>.</li>
         <li>H1 180s should be used post cast to cover the puddle drops and stacks.</li>
-        <li>Also covered by H1 120s</li>
+        <li>Also covered by H1 120s.</li>
         <li>MT can use their 90s here to cover the cast or after to cover the puddles and stack.</li>
       </ul>
     </td>
@@ -436,6 +437,8 @@ casters.
   </table>
 
 ### P3. Oracle of Darkness
+
+P3 is somewhat lenient on mitigation checks, so extra H2 mitigations (<em>Fey Illumination</em>/<em>Seraph</em>/<em>Panhaima</em>) are not mentioned here but can be used to supplement whatever mitplan you wish to use later on. 
 
 <table>
   <tr>
@@ -493,6 +496,7 @@ casters.
     <td>
       <ul>
         <li>MT should <em>Reprisal</em> this if not used earlier.</li>
+        <li>This is the latest that 120s mitigations can be used here if you want to use them again during the <em>Shockwave Pulsar</em> → <em>Memory's End</em> cast.</li>
       </ul>
     </td>
   </tr>
@@ -529,7 +533,7 @@ casters.
     <td>
       <ul>
         <li>ST 90s</li>
-        <li>H1 180s</li>
+        <li>H1 180s, H2 180s</li>
         <li>D3</li>
       </ul>
     </td>
@@ -556,6 +560,7 @@ casters.
     </td>
     <td>
       <ul>
+        <li><em>Divine Caress/Sun Sign</em> can be used here if delayed all the way from the 1st set.</li>
       </ul>
     </td>
   </tr>
@@ -669,7 +674,8 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
     </td>
     <td>
       <ul>
-        <li>Also covered by H1 120s (<em>Divine Caress</em> and <em>Sunsign</em>).</li>
+        <li>Also covered by H1 120s (<em>Divine Caress/Sun Sign</em>).</li>
+        <li>Any extra mitigations helps here as there is a lot of outgoing damage in a short period of time.</li>
         <li>Targeted debuffs should be used on Usurper of Frost.</li>
       </ul>
     </td>
@@ -770,6 +776,7 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
     <td>
       <ul>
         <li>Use any remaining mitigations here.</li>
+        <li><b>ST</b> can also <em>Reprisal</em> here if the MT Reprisal doesn't cover the Morn Afah.</li>
         <li>A Sage may opt to use <em>Philosophia</em> or <em>Panhaima</em> here.</li>
         <li>D3 mitigations will be up at the last second.</li>
       </ul>
