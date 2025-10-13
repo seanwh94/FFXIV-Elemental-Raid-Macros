@@ -220,19 +220,18 @@ We can now continue with the mechanic.
   <tr>
     <td>
       <p><b>10.</b> The Oracle of Darkness targets the furthest player for
-      <em>Somber Dance</em>.</p>
+      <em>Somber Dance</em>, which should be baited by the MT (unless the MT is
+      a PLD, in which case the ST baits <em>Somber Dance</em> instead).</p>
+      <p>Depending on where the <em>Spirit Taker</em> at Step 8 landed, this
+      is <b>not necessarily the safe half</b> in Step 9.</p>
       <p>This is actually a two-hit tankbuster, first targeting the furthest
       player, then targeting the closest player.</p>
       <p>However, <em>unlike</em> the Savage version, both hits can be taken by
       the same player, which we do with tank invulnerability.</p>
-      <p>Some notes though:</p>
-      <ul>
-        <li>This <em>cannot</em> be taken by a PLD, as they will need
-        <em>Hallowed Ground</em> for the final phase.</li>
-        <li>This <em>can</em> be taken by a GNB, but a fast killtime could  
-        cause <em>Superbolide</em> to not be available in time for the second 
-        <em>Wings Dark and Light</em> in the final phase.</li>
-      </ul>
+      <p>Note that <em>Somber Dance</em>'s AoE is actually slightly
+      <em>larger</em> than the Oracle of Darkness's targeting circle. All other
+      players should move away from the Oracle of Darkness after the first hit
+      to avoid accidentally getting clipped by the second hit.</p>
       <p><b>Both tanks should also use <em>Rampart</em> during <em>Somber 
       Dance</em></b>- this will last long enough to cover the upcoming <em>Akh 
       Morn</em>, and be back in time for the second <em>Akh Morn</em> after 
@@ -446,7 +445,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>15.</b> The dragon heads reach the E/W red Ice players around the 
+      <p><b>13.</b> The dragon heads reach the E/W red Ice players around the 
       same time the debuffs resolve, and explode in an AoE <em>(Longing of the
       Lost)</em>.</p>
       <ul>
@@ -501,7 +500,6 @@ the sea of mechanics.
         <li>If the telegraph appears on the same side as the red Ice player,
         don't panic and just prepare to dodge into it when it goes off.</li>
       </ul>
-      <p><b>Note which side the telegraph started on (East or West).</b></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_05.jpg">
