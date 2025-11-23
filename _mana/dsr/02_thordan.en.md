@@ -371,8 +371,11 @@ In other words:
       off into their respective towers.</p>
       <p><b>Meteor role:</b></p>
       <ul>
-        <li><p>Unless your partner indicates otherwise <em>(see the next step)</em>,
-        take the first outside tower in the following priority:</p>
+        <li>You will always take an <b>outside</b> tower.</li>
+        <li>If you are either North or South, your priority is to avoid a
+        "cursed" scenario where both Meteor players start West or East.</li>
+        <li><p>Otherwise, if there is more than one tower outside, take the
+        first outside tower in the following priority:</p>
         <p style="text-align:center"><b>center > ccw > cw</b></p></li>
         <li>Take your tower as close to the center N/S line as you can
         <em>(observe H1's position in the diagram)</em>.</li>
@@ -571,9 +574,11 @@ scenarios to consider.
     <td>
       <p><b>3.</b> Players then split off into their respective towers.</p>
       <p>This is the unfortunate case where blindly following the priority order
-      makes things harder.</p><p>Ideally, the MT would've communicated that they
-      should take the ccw tower, so D3 would take the cw tower and "uncurse" D1
-      as a result.</p>
+      makes things harder.</p>
+      <p>Here, because D1 only has the CW tower available, D3 should (in the
+      ideal case) also take their CW tower, breaking the tower priority.</p>
+      <p>This would be communicated between the MT and D3 just before stacking
+      together.</p>
       <p>By taking the towers as close to the N/S line, this maximises the
       available space even in the "cursed" configuration.</p>
       <ul>
