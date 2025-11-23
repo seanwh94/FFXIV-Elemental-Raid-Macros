@@ -24,8 +24,18 @@ summary of the differences between Elemental and Mana.
   <th width="40%">Mana</th>
   <tr>
     <td>Which tank takes which boss</td>
-    <td>MT → Grinnaux, ST → Adelphel</td>
-    <td>MT → Adelphel, ST → Grinnaux</td>
+    <td>
+      <ul>
+        <li>MT → Grinnaux (East boss)</li>
+        <li>ST → Adelphel (West boss)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>MT → Adelphel (West boss)</li>
+        <li>ST → Grinnaux (East boss)</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td><em>Hyperdimensional Slash</em></td>
@@ -33,12 +43,15 @@ summary of the differences between Elemental and Mana.
     <td>Markers <b>north</b> first</td>
   </tr>
   <tr>
-    <td rowspan="2">Playstation markers</td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/01/playstation_01.jpg"></td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/01/playstation_01.jpg"></td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align:center">The ▽ positions are flipped.</td>
+    <td>Playstation markers</td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/01/playstation_01.jpg">
+      <p style="text-align:center">DPS ▽ NW, Healer ▽ SE</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr_mana/01/playstation_01.jpg">
+      <p style="text-align:center">Healer ▽ NW, DPS ▽ SE</p>
+    </td>
   </tr>
 </table>
 
@@ -112,17 +125,23 @@ summary of the differences between Elemental and Mana.
     <td>Starting tethers</td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/dsr/04/eyes_03.jpg">
-      T/H → red, DPS → blue
+      <ul>
+        <li>T/H → red tethers</li>
+        <li>DPS → blue tethers</li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/dsr_mana/04/eyes_03.jpg">
-      T/H → blue, DPS → red
+      <ul>
+        <li>T/H → blue tethers</li>
+        <li>DPS → red tethers</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td>After popping yellow orbs</td>
-    <td>Blue tethers move to red tethers to swap</td>
-    <td>Red tethers move to blue tethers to swap</td>
+    <td>Red tethers wait, blue tethers move to swap</td>
+    <td>Blue tethers wait, red tethers move to swap</td>
   </tr>
   <tr>
     <td><em>Mirage Dives</em></td>
@@ -158,12 +177,16 @@ summary of the differences between Elemental and Mana.
   <tr>
     <td><em>Death of the Heavens</em></td>
     <td>
-      <p>Dooms North</p>
-      <p>MT ST H1 H2 D1 D2 D3 D4</p>
+      <ul>
+        <li>Dooms North</li>
+        <li>MT ST <b>H1 H2 D1 D2 D3 D4</b></li>
+      </ul>
     </td>
     <td>
-      <p>Dooms South</p>
-      <p>MT ST D1 D2 D3 D4 H1 H2</p>
+      <ul>
+        <li>Dooms South</li>
+        <li>MT ST <b>D1 D2 D3 D4 H1 H2</b></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -219,7 +242,7 @@ summary of the differences between Elemental and Mana.
     <td><em>Wyrmsbreath</em> #2</td>
     <td>5-1 (D3 south)</td>
     <td>
-      <p>Fixed WB2</p>
+      <p style="text-align:center">Fixed WB2</p>
       <a href="{{site.baseurl}}/images/ultimates/dsr_mana/06/fixed_wyrmsbreath2.jpg">
         <img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/fixed_wyrmsbreath2.jpg">
       </a>
@@ -238,14 +261,18 @@ summary of the differences between Elemental and Mana.
   <tr>
     <td><em>Trinity</em></td>
     <td>
-      <p>After <em>Exaflare's Edge</em>: D1 > D2</p>
-      <p>After <em>Akh Morn's Edge</em>: D3 > D4</p>
-      <p>After <em>Gigaflare's Edge</em>: H1 > H2</p>
+      <ul>
+        <li>After <em>Exaflare's Edge</em>: D1 > D2</li>
+        <li>After <em>Akh Morn's Edge</em>: D3 > D4</li>
+        <li>After <em>Gigaflare's Edge</em>: H1 > H2</li>
+      </ul>
     </td>
     <td>
-      <p>After <em>Exaflare's Edge</em>: H1 > H2</p>
-      <p>After <em>Akh Morn's Edge</em>: D1 > D2</p>
-      <p>After <em>Gigaflare's Edge</em>: D3 > D4</p>
+      <ul>
+        <li>After <em>Exaflare's Edge</em>: H1 > H2</li>
+        <li>After <em>Akh Morn's Edge</em>: D1 > D2</li>
+        <li>After <em>Gigaflare's Edge</em>: D3 > D4</li>
+      </ul>
     </td>
   </tr>
   <tr>
