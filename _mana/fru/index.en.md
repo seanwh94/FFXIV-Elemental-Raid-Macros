@@ -15,6 +15,88 @@ Mana does the [new Lily Doll strat](https://jp.finalfantasyxiv.com/lodestone/cha
 which is basically Lily Doll's original strat, but has P4 and P5 replaced with
 Nukemaru's strats.
 
+The overall strat would typically be summarized as:
+```
+P123リリドP45ぬけまる《アポ基準/扇前/1:7/赤爆走Y字アムレン》
+```
+<div style="padding: 10px; border: 1px solid;">
+<details>
+<summary><b>[Click to expand]</b> Terminology breakdown</summary>
+<table>
+  <th>Japanese</th>
+  <th>Translation</th>
+  <tr>
+    <td>
+      <p>P123リリド</p>
+      <p>P123 <em>RIRIDO</em></p>
+    </td>
+    <td>P123 Lily Doll</td>
+  </tr>
+  <tr>
+    <td>
+      <p>P45ぬけまる</p>
+      <p>P45 <em>nukemaru</em></p>
+    </td>
+    <td>P45 Nukemaru</td>
+  </tr>
+  <tr>
+    <td>
+      <p>アポ基準</p>
+      <p><em>APO kijun</em></p>
+    </td>
+    <td>Apocalypse-relative
+      <ul>
+        <li>P3 <em>Apocalypse</em>: Where each group goes is determined by
+        where the first pair of Apocalypse lights spawn (instead of where the
+        safe spots are).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>扇前</p>
+      <p><em>oogi mae</em></p>
+    </td>
+    <td>"Before fan"
+      <ul>
+        <li>P4 <em>Darklit Dragonsong</em>: Water stacks adjust before the fan
+        AoEs from the Usurper of Frost.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>赤爆</p>
+      <p><em>akabaku</em></p>
+    </td>
+    <td>"Red rushes"
+      <ul>
+        <li>P4 <em>Crystallize Time</em>: The red Blizzard players run towards
+        North after popping their dragon heads- one to join the <em>Unholy
+        Darkness</em> stack, the other to avoid the hourglass AoE.</li>
+        <li>Short for "赤ブリ爆走" (Red Blizzards rush).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Y字アムレン</p>
+      <p>Y <em>ji AMUREN</em></p>
+    </td>
+    <td>"Y-shape Arm's Length"
+      <ul>
+        <li>P4 <em>Crystallize Time</em>: The party records their positions in
+        a V-shape <em>(I'm not sure why the Japanese call this Y-shaped)</em>,
+        with the party near the center, and tanks relative NW/NE. <em>Hallowed
+        Wings</em> is mitigated and everyone uses anti-knockback abilities just
+        before the rewind happens.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
+</div>
+
 ### BiS Notes
 
 - BiS will be a mix of gear from:
