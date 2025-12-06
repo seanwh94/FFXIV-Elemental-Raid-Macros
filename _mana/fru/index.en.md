@@ -117,7 +117,7 @@ Patch 8.0.
 
 Here are some clear PoVs that I've been collecting.
 
-- [MT PoV (DRK)](https://youtu.be/RLlQPO0QOgk)
+- [MT PoV (DRK)](https://youtu.be/1d9A0tNkFQw)
 - [ST PoV (PLD)](https://youtu.be/R17LKD903i0)
 - [H1 PoV (WHM)](https://youtu.be/0LpJ-1tLbhw)
 - [H2 PoV (SCH)](https://youtu.be/r69DXp-O3_g)
