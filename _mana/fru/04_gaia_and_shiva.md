@@ -274,6 +274,8 @@ Morn* into *Morn Afah*, which is a party stack.
       <p><b>Tip:</b> Because <em>Morn Afah</em> targets the MT, if the party is
       not able to balance the HP in time, the MT can sacrifice themselves by
       taking <em>Morn Afah</em> solo to save the party from wiping.</p>
+      <p>If they do so, they need to be raised and <em>Provoke</em> the Usurper
+      of Frost <em>before</em> the bosses disappear for <em>Crystallize Time</em>.</p>
       </div>
     </td>
     <td>
