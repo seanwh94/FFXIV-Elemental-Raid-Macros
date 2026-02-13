@@ -10,6 +10,8 @@ permalink: /mana/fru/01_fatebreaker/
 
 # Fatebreaker（フェイトブレイカ）
 
+---
+
 ## Cyclonic Break（サイクロニックブレイク）
 
 Fatebreaker opens with *Cyclonic Break*, which is a mechanic that reappears 
@@ -106,6 +108,8 @@ shortly in the middle of *Utopian Sky*.
     </td>
   </tr>
 </table>
+
+---
 
 ## Utopian Sky（楽園絶技）
 
@@ -271,6 +275,8 @@ heavy-hitting raid-wide that also applies a DoT on the party.
 
 Shortly after, the boss then prepares the second mechanic combo.
 
+---
+
 ## Fall of Faith（シンソイルセヴァー）
 
 This is resolved with a "West-to-East" conga line to help sort out 
@@ -412,6 +418,8 @@ priorities.
 
 The boss then does another *Burnished Glory*, followed by a *Powder Mark
 Trail*. This *Powder Mark Trail* should be invulned with the priority PLD > ST.
+
+---
 
 ## Towers
 

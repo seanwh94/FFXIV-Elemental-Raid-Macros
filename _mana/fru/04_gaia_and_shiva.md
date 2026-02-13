@@ -60,6 +60,8 @@ and should be taken by the ST.
 
 They will shortly begin their first joint mechanic.
 
+---
+
 ## Darklit Dragonsong（光と闇の竜詩）
 
 Both bosses will cast *Darklit Dragonsong*.
@@ -233,6 +235,8 @@ We can now continue with the mechanic.
   </tr>
 </table>
 
+---
+
 ## Akh Morn 1 - 7:1 (MT solo)
 
 The two bosses will then teleport a bit West and East of the center for *Akh
@@ -283,6 +287,8 @@ Morn* into *Morn Afah*, which is a party stack.
     </td>
   </tr>
 </table>
+
+---
 
 ## Crystallize Time（時間結晶）
 
@@ -653,6 +659,8 @@ the sea of mechanics.
     </td>
   </tr>
 </table>
+
+---
 
 ## Akh Morn 2 - 7:1 (ST solo)
 

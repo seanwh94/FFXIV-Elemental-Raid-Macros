@@ -27,6 +27,8 @@ a DNC in the party), but a priority may look something like:
   </tr>
 </table>
 
+---
+
 ## Ultimate Relativity（時間圧縮・絶）- Poni Kone
 
 When *Ultimate Relativity* resolves, there will be a lot of debuffs that go 
@@ -260,8 +262,8 @@ Each player is expected to carry a set of macros that do two things:
 ```
 <p>DPS mid Fire:</p>
 ```
-/micon stop2 marking
-/mk stop2 <me>
+/micon ignore2 marking
+/mk ignore2 <me>
 /echo >---- DPS Mid Fire: East ---- <
 /echo Stack
 /echo Record at mid
@@ -488,6 +490,8 @@ two-player tankbuster cleave. Resolve *Black Halo* North.
   <b>Note:</b> <em>Black Halo</em> can be taken by a single tank with heavy
   mitigation.
 </div>
+
+---
 
 ## Apocalypse（アポカリプス） - Permaswap, Coloured Apocalypse
 

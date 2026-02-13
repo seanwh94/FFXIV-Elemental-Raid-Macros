@@ -29,6 +29,8 @@ The boss then teleports slightly south of center and casts *Mirror Image*
 which summons an (untargetable) Oracle's Reflection before casting *Diamond
 Dust* for heavy raid-wide damage.
 
+---
+
 ## Diamond Dust（ダイヤモンド・ダスト）
 
 *Diamond Dust* resolves itself in a very similar way to *Diamond Frost* in
@@ -224,7 +226,7 @@ Eden's Verse: Refulgence (Savage).
   </tr>
 </table>
 
-## Sunbound Holy
+### Sunbound Holy
 
 The Oracle's Reflection then casts *Sunbound Holy*, which targets each healer 
 four times with a 4-man stack AoE that also leaves a puddle behind. Each party 
@@ -351,6 +353,8 @@ The Usurper of Frost reappears back in the center of the arena and casts
 *Hallowed Ray* on the party (which is a heavy-hitting line stack) before 
 starting the next set of mechanics.
 
+---
+
 ## Mirror, Mirror（鏡の国）
 
 The Usurper of Frost will be targetable during this mechanic.
@@ -452,6 +456,8 @@ cardinal/intercardinal positions.
 
 After this, the boss will teleport to the middle and begin another signature 
 mechanic.
+
+---
 
 ## Light Rampant（光の暴走）
 
