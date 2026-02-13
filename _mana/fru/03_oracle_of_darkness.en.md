@@ -199,16 +199,61 @@ The first step is to assign hourglasses to players. The basic rules are:
 
 This is a *tethers-relative* assigment.
 
-Each player is expected to carry a set of macros that do two things:
+Each player is expected to carry macros that mark themselves with the
+appropriate marker based on whether you're short, mid, or long Fire.
 
-- Mark themselves with the appropriate marker based on whether you're short,
-  mid, or long Fire.
-- Dump the sequence of mechanics (in order) in `/echo` chat.
+At the **very minimum**, tanks and healers will need a macro to mark themselves
+if they get Long Fire:
+```
+/micon bind1 marking
+/mk bind <me>
+```
+DPS will need a macro to mark themselves if they get Short Fire:
+```
+/micon attack marking
+/mk attack <me>
+```
+These macros can also be used to dump reminders via `/echo`.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
 <summary><b>[Click to Expand] Ultimate Relativity macros</b></summary>
-<p>Tank/Healer short Fire/Blizzard:</p>
+<p>Personally, I only mark myself with the above macros if I am either Long Fire
+as tank/healer, or Short Fire as DPS, and use the following macros to help
+remember how to move:</p>
+
+<p><b>Ultimate Relativity (Tanks/Healers)</b></p>
+```
+/echo 　　　　Ultimate Relativity (T/H)
+/echo ーーーーーーーーーーーーーーーーーーーーー
+/echo 　 ｜Short/Ice   ｜Mid Fire    ｜Long Fire
+/echo ーーーーーーーーーーーーーーーーー(x2)ーー
+/echo  1.｜Out/Mid　 ｜Mid　　　 ｜Mid
+/echo  2.｜ Rewind TL｜Rewind TL｜Bait Laser
+/echo  3.｜ Mid　　　 ｜Out Fire 　｜Mid
+/echo  4.｜ Bait Laser ｜Mid　　　  ｜Rewind Mid
+/echo  5.｜ Mid　　　 ｜Mid　　　  ｜Out Fire
+/echo  6.｜ Mid　　　 ｜Bait Laser  ｜Mid　
+```
+
+<p><b>Ultimate Relativity (DPS)</b></p>
+```
+/echo 　　　　Ultimate Relativity (DPS)
+/echo ーーーーーーーーーーーーーーーーーーーーー
+/echo 　 ｜Short Fire  ｜Mid Fire   　｜Long/Ice
+/echo ーーーー(x2)ーーーーーーーーーーーーーーー
+/echo  1.｜ Out Fire 　｜Mid　　　　｜Mid
+/echo  2.｜ Rewind TL｜Rewind Mid｜Bait Laser
+/echo  3.｜ Mid　　　 ｜Out Fire　　｜Mid
+/echo  4.｜ Bait Laser ｜Mid　　　　 ｜Rewind Mid
+/echo  5.｜ Mid　　　 ｜Mid　　　 　｜Out/Mid
+/echo  6.｜ Mid　　　 ｜Bait Laser 　｜Mid
+```
+
+<p>If you want to use a macro for each possible debuff, you can use the following
+macros instead:</p>
+
+<p><b>Tank/Healer short Fire/Blizzard:</b></p>
 ```
 /micon attack3 marking
 /mk attack3 <me>
@@ -221,7 +266,7 @@ Each player is expected to carry a set of macros that do two things:
 /echo Face outside
 /echo >----------------------<
 ```
-<p>Tank/Healer Mid Fire:</p>
+<p><b>Tank/Healer Mid Fire:</b></p>
 ```
 /micon ignore1 marking
 /mk ignore1 <me>
@@ -234,7 +279,7 @@ Each player is expected to carry a set of macros that do two things:
 /echo Bait laser → Dodge + face out
 /echo >----------------------<
 ```
-<p>Tank/Healer Long Fire:</p>
+<p><b>Tank/Healer Long Fire:</b></p>
 ```
 /micon bind1 marking
 /mk bind <me>
@@ -247,7 +292,7 @@ Each player is expected to carry a set of macros that do two things:
 /echo Mid + face outside
 /echo >----------------------<
 ```
-<p>DPS short Fire:</p>
+<p><b>DPS short Fire:</b></p>
 ```
 /micon attack1 marking
 /mk attack <me>
@@ -260,7 +305,7 @@ Each player is expected to carry a set of macros that do two things:
 /echo Mid + face outside
 /echo >----------------------<
 ```
-<p>DPS mid Fire:</p>
+<p><b>DPS mid Fire:</b></p>
 ```
 /micon ignore2 marking
 /mk ignore2 <me>
@@ -273,7 +318,7 @@ Each player is expected to carry a set of macros that do two things:
 /echo Bait laser → Dodge + face out
 /echo >----------------------<
 ```
-<p>DPS Long Fire:</p>
+<p><b>DPS Long Fire:</b></p>
 ```
 /micon bind3 marking
 /mk bind3 <me>
@@ -289,37 +334,6 @@ Each player is expected to carry a set of macros that do two things:
 </details>
 </div>
 
-Personally, I only mark myself if I am either Long Fire as tank/healer, or
-Short Fire as DPS, and use the following macros to help:
-
-**Ultimate Relativity (Tanks/Healers)**
-```
-/echo 　　　　Ultimate Relativity (T/H)
-/echo ーーーーーーーーーーーーーーーーーーーーー
-/echo 　 ｜Short/Ice   ｜Mid Fire    ｜Long Fire
-/echo ーーーーーーーーーーーーーーーーー(x2)ーー
-/echo  1.｜Out/Mid　 ｜Mid　　　 ｜Mid
-/echo  2.｜ Rewind TL｜Rewind TL｜Bait Laser
-/echo  3.｜ Mid　　　 ｜Out Fire 　｜Mid
-/echo  4.｜ Bait Laser ｜Mid　　　  ｜Rewind Mid
-/echo  5.｜ Mid　　　 ｜Mid　　　  ｜Out Fire
-/echo  6.｜ Mid　　　 ｜Bait Laser  ｜Mid　
-```
-
-**Ultimate Relativity (DPS)**
-```
-/echo 　　　　Ultimate Relativity (DPS)
-/echo ーーーーーーーーーーーーーーーーーーーーー
-/echo 　 ｜Short Fire  ｜Mid Fire   　｜Long/Ice
-/echo ーーーー(x2)ーーーーーーーーーーーーーーー
-/echo  1.｜ Out Fire 　｜Mid　　　　｜Mid
-/echo  2.｜ Rewind TL｜Rewind Mid｜Bait Laser
-/echo  3.｜ Mid　　　 ｜Out Fire　　｜Mid
-/echo  4.｜ Bait Laser ｜Mid　　　　 ｜Rewind Mid
-/echo  5.｜ Mid　　　 ｜Mid　　　 　｜Out/Mid
-/echo  6.｜ Mid　　　 ｜Bait Laser 　｜Mid
-```
-
 <table>
   <tr>
     <td>
@@ -327,6 +341,11 @@ Short Fire as DPS, and use the following macros to help:
       yellow tether pointing upwards. Find the 大 and orient to it with the
       single yellow tether as North.</p>
       <p>Take up assigned clock positions based on your Fire group.</p>
+      <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+        <b>Note:</b> Pay attention to the tether orientation- this is
+        <em>upside-down</em> from the "Y-Runytivity" strat done in other
+        datacenters!
+      </div>
     </td>
   </tr>
   <tr>
