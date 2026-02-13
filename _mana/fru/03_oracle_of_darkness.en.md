@@ -289,6 +289,37 @@ Each player is expected to carry a set of macros that do two things:
 </details>
 </div>
 
+Personally, I only mark myself if I am either Long Fire as tank/healer, or
+Short Fire as DPS, and use the following macros to help:
+
+**Ultimate Relativity (Tanks/Healers)**
+```
+/echo 　　　　Ultimate Relativity (T/H)
+/echo ーーーーーーーーーーーーーーーーーーーーー
+/echo 　 ｜Short/Ice   ｜Mid Fire    ｜Long Fire
+/echo ーーーーーーーーーーーーーーーーー(x2)ーー
+/echo  1.｜Out/Mid　 ｜Mid　　　 ｜Mid
+/echo  2.｜ Rewind TL｜Rewind TL｜Bait Laser
+/echo  3.｜ Mid　　　 ｜Out Fire 　｜Mid
+/echo  4.｜ Bait Laser ｜Mid　　　  ｜Rewind Mid
+/echo  5.｜ Mid　　　 ｜Mid　　　  ｜Out Fire
+/echo  6.｜ Mid　　　 ｜Bait Laser  ｜Mid　
+```
+
+**Ultimate Relativity (DPS)**
+```
+/echo 　　　　Ultimate Relativity (DPS)
+/echo ーーーーーーーーーーーーーーーーーーーーー
+/echo 　 ｜Short Fire  ｜Mid Fire   　｜Long/Ice
+/echo ーーーー(x2)ーーーーーーーーーーーーーーー
+/echo  1.｜ Out Fire 　｜Mid　　　　｜Mid
+/echo  2.｜ Rewind TL｜Rewind Mid｜Bait Laser
+/echo  3.｜ Mid　　　 ｜Out Fire　　｜Mid
+/echo  4.｜ Bait Laser ｜Mid　　　　 ｜Rewind Mid
+/echo  5.｜ Mid　　　 ｜Mid　　　 　｜Out/Mid
+/echo  6.｜ Mid　　　 ｜Bait Laser 　｜Mid
+```
+
 <table>
   <tr>
     <td>
