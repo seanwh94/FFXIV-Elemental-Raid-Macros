@@ -76,11 +76,8 @@ base mitigation is:
   </tr>
 </table>
 
-Some things to consider:
-
-- AST has an extra cooldown you can use to help shore up missing mitigation.
-- Golden Bahamut's DPS check is (very) lenient now. Consider Tank LB to help 
-  mitigate Morn Afah if anything goes wrong.
+Golden Bahamut's DPS check is (very) lenient now. Consider Tank LB to help
+mitigate Morn Afah if anything goes wrong.
 
 Tanks will also need to plan out their cooldowns for the Akh Morns.
 
