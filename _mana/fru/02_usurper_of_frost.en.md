@@ -19,7 +19,8 @@ Vulnerability Up* debuff that *can* be Esuna'ed.
 
 Both hits can be invulned.
 
-The boss will auto-attack twice after the tankbuster, and its damage is increased with the *Physical Vulnerability Up* debuff.
+The boss will auto-attack twice after the tankbuster, and its damage is
+increased with the *Physical Vulnerability Up* debuff.
 
 Either *Esuna* the *Physical Vulnerability Up*, mitigate through the two
 auto-attacks, or have the ST *Provoke* the boss to take the auto-attacks.
@@ -27,6 +28,8 @@ auto-attacks, or have the ST *Provoke* the boss to take the auto-attacks.
 The boss then teleports slightly south of center and casts *Mirror Image*
 which summons an (untargetable) Oracle's Reflection before casting *Diamond
 Dust* for heavy raid-wide damage.
+
+---
 
 ## Diamond Dust（ダイヤモンド・ダスト）
 
@@ -223,7 +226,7 @@ Eden's Verse: Refulgence (Savage).
   </tr>
 </table>
 
-## Sunbound Holy
+### Sunbound Holy
 
 The Oracle's Reflection then casts *Sunbound Holy*, which targets each healer 
 four times with a 4-man stack AoE that also leaves a puddle behind. Each party 
@@ -264,7 +267,8 @@ the puddles directly behind the Usurper of Frost.
   </tr>
   <tr>
     <td>
-      <p><b>Case 3: The Usurper of Frost is 45 degrees anti-clockwise from a party.</b></p>
+      <p><b>Case 3: The Usurper of Frost is 45 degrees anti-clockwise from a
+      party.</b></p>
       <p>In this scenario, both parties move clockwise quickly, and end up
       directly in front and behind the Usurper of Frost.</p>
     </td>
@@ -314,8 +318,10 @@ Oracle's Reflection to prepare for the next mechanic.
       <p><b>10.</b> The Oracle's Reflection will now ready either <em>Twin 
       Silence</em> or <em>Twin Stillness</em>.</p>
       <ul>
-        <li><b>Twin Silence</b> <em>("Sink into Silence!")</em>: Slide in front of the Oracle's Reflection.</li>
-        <li><b>Twin Stillness</b> <em>("In stillness freeze!")</em>: Slide behind the Oracle's Reflection.</li>
+        <li><b>Twin Silence</b> <em>("Sink into Silence!")</em>: Slide in front
+        of the Oracle's Reflection.</li>
+        <li><b>Twin Stillness</b> <em>("In stillness freeze!")</em>: Slide
+        behind the Oracle's Reflection.</li>
       </ul>
     </td>
   </tr>
@@ -346,6 +352,8 @@ Oracle's Reflection to prepare for the next mechanic.
 The Usurper of Frost reappears back in the center of the arena and casts 
 *Hallowed Ray* on the party (which is a heavy-hitting line stack) before 
 starting the next set of mechanics.
+
+---
 
 ## Mirror, Mirror（鏡の国）
 
@@ -448,6 +456,8 @@ cardinal/intercardinal positions.
 
 After this, the boss will teleport to the middle and begin another signature 
 mechanic.
+
+---
 
 ## Light Rampant（光の暴走）
 

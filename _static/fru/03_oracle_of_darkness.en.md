@@ -95,7 +95,8 @@ out. However, you only need to check a limited set of debuffs.
       <p><b>Spell-in-Waiting: Return</b></p>
       <p>All players will get this debuff, but with different durations.</p>
       <ul>
-        <li>When the debuff resolves, the player's current position is recorded, and this debuff turns into <em>Return</em></li>
+        <li>When the debuff resolves, the player's current position is
+        recorded, and this debuff turns into <em>Return</em></li>
       </ul>
       <p><b>Return</b></p>
       <p><em>Spell-in-Waiting: Return</em> turns into this debuff when it 
@@ -178,9 +179,12 @@ where players record their positions.</p>
 The party can be split up into three groups based off the duration of each 
 player's *Dark Fire III* debuff.
 
-- Three players (two DPS and one tank/healer) will get 10s Fire debuffs (the "short Fires").
-- Two players (one tank/healer and one DPS) will get 20s Fire debuffs (the "mid Fires"). 
-- Three players (two tanks/healers and one DPS) will get 30s Fire debuffs (the "long Fires").
+- Three players (two DPS and one tank/healer) will get 10s Fire debuffs (the
+  "short Fires").
+- Two players (one tank/healer and one DPS) will get 20s Fire debuffs (the "mid
+  Fires"). 
+- Three players (two tanks/healers and one DPS) will get 30s Fire debuffs (the
+  "long Fires").
 
 Either the tank/healer short Fire, or the DPS long Fire will have their *Dark 
 Fire III* debuff replaced with *Dark Blizzard III*.
@@ -423,8 +427,15 @@ I personally use the following macros to help:
 
 After you gain control of your characters, stack up in the middle to share a 
 *Shell Crusher* AoE. The hourglasses will disappear, and the boss casts a 
-raid-wide *Shockwave Pulsar*. The boss will then target the first player in 
-aggro with *Black Halo*, a two-player tankbuster cleave.
+raid-wide *Shockwave Pulsar*.
+
+The boss will then target the first player in aggro with *Black Halo*, a
+two-player tankbuster cleave. Resolve *Black Halo* North.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+  <b>Note:</b> <em>Black Halo</em> can be taken by a single tank with heavy
+  mitigation.
+</div>
 
 ## Apocalypse - Permaswap, Coloured Safespots
 
@@ -525,7 +536,8 @@ a tank).
       <p>These will be your spread positions later.</p>
       <p><em>(In this example, the lights start N and S and go anti-clockwise,
       so the reference points are NE and SW (clockwise from N/S). Thus, the
-      "base T/H" group goes SW, and the "base DPS" group goes NE.)</em></p>
+      "base T/H" group goes SW, and the "base DPS" group goes NE.</em></p>
+      <p>Darkest Dance <em>will be baited either West or East.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_02b.jpg">
@@ -670,7 +682,9 @@ the mechanic.
     <td>
       <p><b>21.</b> The second set of <em>Dark Water III</em> stacks resolve
       together with the fifth set of AoEs.</p>
-      <p>The MT moves out 90 degrees from where the first set of lights pulsed.</p>
+      <p>The tank that will bait <em>Darkest Dance</em> moves out 90 degrees
+      from where the first set of lights pulsed (see Step 13).</p>
+      <p>The tank that baits this is determined by the priority PLD > ST.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_10.jpg">

@@ -27,6 +27,8 @@ a DNC in the party), but a priority may look something like:
   </tr>
 </table>
 
+---
+
 ## Ultimate Relativity（時間圧縮・絶）- Poni Kone
 
 When *Ultimate Relativity* resolves, there will be a lot of debuffs that go 
@@ -95,7 +97,8 @@ out. However, you only need to check a limited set of debuffs.
       <p><b>Spell-in-Waiting: Return</b></p>
       <p>All players will get this debuff, but with different durations.</p>
       <ul>
-        <li>When the debuff resolves, the player's current position is recorded, and this debuff turns into <em>Return</em></li>
+        <li>When the debuff resolves, the player's current position is recorded,
+        and this debuff turns into <em>Return</em></li>
       </ul>
       <p><b>Return</b></p>
       <p><em>Spell-in-Waiting: Return</em> turns into this debuff when it 
@@ -178,9 +181,12 @@ where players record their positions.</p>
 The party can be split up into three groups based off the duration of each 
 player's *Dark Fire III* debuff.
 
-- Three players (two DPS and one tank/healer) will get 10s Fire debuffs (the "short Fires").
-- Two players (one tank/healer and one DPS) will get 20s Fire debuffs (the "mid Fires"). 
-- Three players (two tanks/healers and one DPS) will get 30s Fire debuffs (the "long Fires").
+- Three players (two DPS and one tank/healer) will get 10s Fire debuffs (the
+  "short Fires").
+- Two players (one tank/healer and one DPS) will get 20s Fire debuffs (the "mid
+  Fires"). 
+- Three players (two tanks/healers and one DPS) will get 30s Fire debuffs (the
+  "long Fires").
 
 Either the tank/healer short Fire, or the DPS long Fire will have their *Dark 
 Fire III* debuff replaced with *Dark Blizzard III*.
@@ -193,16 +199,61 @@ The first step is to assign hourglasses to players. The basic rules are:
 
 This is a *tethers-relative* assigment.
 
-Each player is expected to carry a set of macros that do two things:
+Each player is expected to carry macros that mark themselves with the
+appropriate marker based on whether you're short, mid, or long Fire.
 
-- Mark themselves with the appropriate marker based on whether you're short,
-  mid, or long Fire.
-- Dump the sequence of mechanics (in order) in `/echo` chat.
+At the **very minimum**, tanks and healers will need a macro to mark themselves
+if they get Long Fire:
+```
+/micon bind1 marking
+/mk bind <me>
+```
+DPS will need a macro to mark themselves if they get Short Fire:
+```
+/micon attack marking
+/mk attack <me>
+```
+These macros can also be used to dump reminders via `/echo`.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
 <summary><b>[Click to Expand] Ultimate Relativity macros</b></summary>
-<p>Tank/Healer short Fire/Blizzard:</p>
+<p>Personally, I only mark myself with the above macros if I am either Long Fire
+as tank/healer, or Short Fire as DPS, and use the following macros to help
+remember how to move:</p>
+
+<p><b>Ultimate Relativity (Tanks/Healers)</b></p>
+```
+/echo 　　　　Ultimate Relativity (T/H)
+/echo ーーーーーーーーーーーーーーーーーーーーー
+/echo 　 ｜Short/Ice   ｜Mid Fire    ｜Long Fire
+/echo ーーーーーーーーーーーーーーーーー(x2)ーー
+/echo  1.｜Out/Mid　 ｜Mid　　　 ｜Mid
+/echo  2.｜ Rewind TL｜Rewind TL｜Bait Laser
+/echo  3.｜ Mid　　　 ｜Out Fire 　｜Mid
+/echo  4.｜ Bait Laser ｜Mid　　　  ｜Rewind Mid
+/echo  5.｜ Mid　　　 ｜Mid　　　  ｜Out Fire
+/echo  6.｜ Mid　　　 ｜Bait Laser  ｜Mid　
+```
+
+<p><b>Ultimate Relativity (DPS)</b></p>
+```
+/echo 　　　　Ultimate Relativity (DPS)
+/echo ーーーーーーーーーーーーーーーーーーーーー
+/echo 　 ｜Short Fire  ｜Mid Fire   　｜Long/Ice
+/echo ーーーー(x2)ーーーーーーーーーーーーーーー
+/echo  1.｜ Out Fire 　｜Mid　　　　｜Mid
+/echo  2.｜ Rewind TL｜Rewind Mid｜Bait Laser
+/echo  3.｜ Mid　　　 ｜Out Fire　　｜Mid
+/echo  4.｜ Bait Laser ｜Mid　　　　 ｜Rewind Mid
+/echo  5.｜ Mid　　　 ｜Mid　　　 　｜Out/Mid
+/echo  6.｜ Mid　　　 ｜Bait Laser 　｜Mid
+```
+
+<p>If you want to use a macro for each possible debuff, you can use the following
+macros instead:</p>
+
+<p><b>Tank/Healer short Fire/Blizzard:</b></p>
 ```
 /micon attack3 marking
 /mk attack3 <me>
@@ -215,7 +266,7 @@ Each player is expected to carry a set of macros that do two things:
 /echo Face outside
 /echo >----------------------<
 ```
-<p>Tank/Healer Mid Fire:</p>
+<p><b>Tank/Healer Mid Fire:</b></p>
 ```
 /micon ignore1 marking
 /mk ignore1 <me>
@@ -228,7 +279,7 @@ Each player is expected to carry a set of macros that do two things:
 /echo Bait laser → Dodge + face out
 /echo >----------------------<
 ```
-<p>Tank/Healer Long Fire:</p>
+<p><b>Tank/Healer Long Fire:</b></p>
 ```
 /micon bind1 marking
 /mk bind <me>
@@ -241,7 +292,7 @@ Each player is expected to carry a set of macros that do two things:
 /echo Mid + face outside
 /echo >----------------------<
 ```
-<p>DPS short Fire:</p>
+<p><b>DPS short Fire:</b></p>
 ```
 /micon attack1 marking
 /mk attack <me>
@@ -254,10 +305,10 @@ Each player is expected to carry a set of macros that do two things:
 /echo Mid + face outside
 /echo >----------------------<
 ```
-<p>DPS mid Fire:</p>
+<p><b>DPS mid Fire:</b></p>
 ```
-/micon stop2 marking
-/mk stop2 <me>
+/micon ignore2 marking
+/mk ignore2 <me>
 /echo >---- DPS Mid Fire: East ---- <
 /echo Stack
 /echo Record at mid
@@ -267,7 +318,7 @@ Each player is expected to carry a set of macros that do two things:
 /echo Bait laser → Dodge + face out
 /echo >----------------------<
 ```
-<p>DPS Long Fire:</p>
+<p><b>DPS Long Fire:</b></p>
 ```
 /micon bind3 marking
 /mk bind3 <me>
@@ -290,6 +341,11 @@ Each player is expected to carry a set of macros that do two things:
       yellow tether pointing upwards. Find the 大 and orient to it with the
       single yellow tether as North.</p>
       <p>Take up assigned clock positions based on your Fire group.</p>
+      <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+        <b>Note:</b> Pay attention to the tether orientation- this is
+        <em>upside-down</em> from the "Y-Runytivity" strat done in other
+        datacenters!
+      </div>
     </td>
   </tr>
   <tr>
@@ -475,8 +531,17 @@ spinnning).
 
 After you gain control of your characters, stack up in the middle to share a 
 *Shell Crusher* AoE. The hourglasses will disappear, and the boss casts a 
-raid-wide *Shockwave Pulsar*. The boss will then target the first player in 
-aggro with *Black Halo*, a two-player tankbuster cleave.
+raid-wide *Shockwave Pulsar*.
+
+The boss will then target the first player in aggro with *Black Halo*, a
+two-player tankbuster cleave. Resolve *Black Halo* North.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+  <b>Note:</b> <em>Black Halo</em> can be taken by a single tank with heavy
+  mitigation.
+</div>
+
+---
 
 ## Apocalypse（アポカリプス） - Permaswap, Coloured Apocalypse
 
@@ -584,10 +649,14 @@ a tank).
         the cardinal/intercardinal mark.</li>
       </ol>
       <p>These will be your spread positions later.</p>
+      <p>The tank that will bait <em>Darkest Dance</em> also needs to pay
+      attention to the nearest position marked "2" in the diagram, as this will
+      be where they will bait <em>Darkest Dance</em> later.</p>
       <p><em>(In this example, the lights start W and E and go clockwise, so
       the "base T/H" group references W, and the "base DPS" group references
       E. Rotating 45 degrees in the opposite direction means the "base T/H"
-      group goes SW, and the "base DPS" group goes NE.)</em></p>
+      group goes SW, and the "base DPS" group goes NE.</em></p>
+      <p>Darkest Dance <em>will be baited either North or South.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_02c.jpg">
@@ -733,7 +802,9 @@ the mechanic.
     <td>
       <p><b>22.</b> The second set of <em>Dark Water III</em> stacks resolve
       together with the fifth set of AoEs.</p>
-      <p>The ST moves out 90 degrees from where the first set of lights pulsed.</p>
+      <p>The tank that will bait <em>Darkest Dance</em> (暗夜の舞踏技) moves out 90
+      degrees from where the first set of lights pulsed (see Step 14).</p>
+      <p>The tank that baits this is determined by the priority PLD > ST.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_10.jpg">
@@ -741,11 +812,9 @@ the mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>23.</b> The boss then uses <em>Darkest Dance</em> (暗夜の舞踏技), which
-      targets the furthest player (which should be a tank) with an AoE
-      tankbuster.</p>
-      <p>The <em>Darkest Dance</em> is also usually invulned, with the priority
-      PLD > ST.</p>
+      <p><b>23.</b> <em>Darkest Dance</em> resolves, which targets the furthest
+      player with an AoE tankbuster.</p>
+      <p>The <em>Darkest Dance</em> is also invulned.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_11.jpg">

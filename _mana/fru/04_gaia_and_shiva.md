@@ -60,6 +60,8 @@ and should be taken by the ST.
 
 They will shortly begin their first joint mechanic.
 
+---
+
 ## Darklit Dragonsong（光と闇の竜詩）
 
 Both bosses will cast *Darklit Dragonsong*.
@@ -200,7 +202,8 @@ We can now continue with the mechanic.
       time, so stack up on <b>the two intercardinal markers on the safe half of
       the arena.</b></p>
       <ul>
-        <li>This will be far enough to not trigger the tethers while also avoiding the Fragment of Fate.</li>
+        <li>This will be far enough to not trigger the tethers while also
+        avoiding the Fragment of Fate.</li>
         <li>The south group can move closer to the south marker to give some
         extra margin of error if needed.</li>
       </ul>
@@ -212,24 +215,27 @@ We can now continue with the mechanic.
   <tr>
     <td>
       <p><b>12.</b> The Oracle of Darkness targets the furthest player for
-      <em>Somber Dance</em> (宵闇の舞踏技).</p>
+      <em>Somber Dance</em> (宵闇の舞踏技), which should be baited by the MT (unless
+      the MT is a PLD, in which case the ST baits <em>Somber Dance</em>
+      instead).</p>
+      <p>Depending on where the <em>Spirit Taker</em> at Step 10 landed, this
+      is <b>not necessarily the safe half</b> in Step 11.</p>
       <p>This is actually a two-hit tankbuster, first targeting the furthest
       player, then targeting the closest player.</p>
       <p>However, <em>unlike</em> the Savage version, both hits can be taken by
       the same player, which we do with tank invulnerability.</p>
-      <p>Some notes though:</p>
-      <ul>
-        <li>This <em>cannot</em> be taken by a PLD, as they will need
-        <em>Hallowed Ground</em> for the final phase.</li>
-        <li>This <em>can</em> be taken by a GNB, but a fast killtime could  
-        cause <em>Superbolide</em> to not be available in time for the second <em>Wings Dark and Light</em> in the final phase.</li>
-      </ul>
+      <p>Note that <em>Somber Dance</em>'s AoE is actually slightly
+      <em>larger</em> than the Oracle of Darkness's targeting circle. All other
+      players should move away from the Oracle of Darkness after the first hit
+      to avoid accidentally getting clipped by the second hit.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_08.jpg">
     </td>
   </tr>
 </table>
+
+---
 
 ## Akh Morn 1 - 7:1 (MT solo)
 
@@ -241,8 +247,8 @@ Morn* into *Morn Afah*, which is a party stack.
     <td width="50%">
       <p><b>13.</b> The two bosses target whoever has their hate with a 4-hit
       <em>Akh Morn</em> (which should be their respective tanks).</p>
-      <p>However, a tank can mitigate this to lower the damage on the party-
-      for this first <em>Akh Morn</em>, we have the MT split off.</p>
+      <p>Everyone other than the MT should stack together in the middle of the arena to share the ST's <em>Akh Morn</em>.</p>
+      <p>The MT mitigates their solo <em>Akh Morn</em>:</p>
       <ul>
         <li>Done this way, each <em>Akh Morn</em> hit deals roughly 175k damage 
         to the solo tank.</li>
@@ -255,22 +261,34 @@ Morn* into *Morn Afah*, which is a party stack.
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/akh_morn_01.jpg">
     </td>
   </tr>
+  <tr>
+    <td>
+      <p><b>14.</b> The Usurper of Frost will target whoever is first in aggro
+      (who should be the MT) with <em>Morn Afah</em>, which is a <b>party
+      stack</b>.</p>
+      <p>This is also a boss HP check, and the two bosses' HP must be within 5%
+      of each other, or <em>Morn Afah</em> will be lethal.</p>
+      <p>If they are not within 5% HP, the two bosses will tether together,
+      and the colour indicates which boss has too much HP:</p>
+      <ul>
+        <li><b>White tether:</b> The Usurper of Frost has too much HP.</li>
+        <li><b>Purple tether:</b> The Oracle of Darkness has too much HP.</li>
+      </ul>
+      <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+      <p><b>Tip:</b> Because <em>Morn Afah</em> targets the MT, if the party is
+      not able to balance the HP in time, the MT can sacrifice themselves by
+      taking <em>Morn Afah</em> solo to save the party from wiping.</p>
+      <p>If they do so, they need to be raised and <em>Provoke</em> the Usurper
+      of Frost <em>before</em> the bosses disappear for <em>Crystallize Time</em>.</p>
+      </div>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/morn_afah.jpg">
+    </td>
+  </tr>
 </table>
 
-*Morn Afah* is also a boss HP check, and the two bosses must be within 5% HP of
-each other, or *Morn Afah* will be lethal. If they are not within 5% HP, the
-two bosses will tether together indicating which boss has too much HP.
-
-- **White tether:** The Usurper of Frost has too much HP.
-- **Purple tether:** The Oracle of Darkness has too much HP.
-
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-  <p><b>Tip:</b> <em>Morn Afah</em> originates from the Usurper of Frost, not
-  the Oracle of Darkness.</p>
-  <p>If the HP difference is too large (i.e: the bosses are tethered together),
-  the MT (that's holding the Usurper of Frost) can sacrifice themselves to save
-  the party from wiping to <em>Morn Afah</em>.</p>
-</div>
+---
 
 ## Crystallize Time（時間結晶）
 
@@ -396,7 +414,8 @@ all the previously encountered <em>Spell-in-Waiting</em> debuffs.</p>
       <p>These players will need to eventually mark themselves 1-4.</p>
       <p>Identify the purple tether.</p>
       <ul>
-        <li><b>Everybody <em>except</em> the player with <em>Dark Eruption</em>:</b> Join the red Aero player SW or SE (whichever has the purple tether).</li>
+        <li><b>Everybody <em>except</em> the player with <em>Dark Eruption</em>:</b>
+        Join the red Aero player SW or SE (whichever has the purple tether).</li>
         <li>
           <p><b>Player with <em>Dark Eruption</em>:</b> Go NW or NE (whichever 
           has the purple tether).</p>
@@ -420,7 +439,7 @@ the sea of mechanics.
 <table>
   <tr>
     <td width="50%">
-      <p><b>14.</b> The yellow-tethered hourglasses (North and South) resolve.</p>
+      <p><b>15.</b> The yellow-tethered hourglasses (North and South) resolve.</p>
       <p>The two red Aeros, and all the south-side blue players move into the 
       hourglass AoEs when they resolve <em>(Maelstrom)</em>, and stand at the tip
       of the "flower petal" decal on the floor.</p>
@@ -433,7 +452,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>15.</b> The dragon heads reach the E/W red Ice players around the 
+      <p><b>16.</b> The dragon heads reach the E/W red Ice players around the 
       same time the debuffs resolve, and explode in an AoE <em>(Longing of the
       Lost)</em>.</p>
       <ul>
@@ -455,7 +474,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>16.</b> The second set of hourglasses explode together with the 
+      <p><b>17.</b> The second set of hourglasses explode together with the 
       blue player with <em>Unholy Darkness</em>.</p>
       <ul>
         <li>Do not hit the Fragment of Fate! Be at least on the intercardinal
@@ -475,7 +494,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> The red Aeros intercept the dragon heads. At this point,
+      <p><b>18.</b> The red Aeros intercept the dragon heads. At this point,
       all the red <em>Wyrmclaw</em> debuffs have been resolved.</p>
       <ul>
         <li>The red Aero players go back to the South sector after taking their
@@ -496,7 +515,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> The third set of hourglasses resolve together with the 
+      <p><b>19.</b> The third set of hourglasses resolve together with the 
       first line AoE.</p>
       <p>Depending on where you are, position yourself to dodge into either 
       the first or second line AoE (there will be telegraphs for both).</p>
@@ -508,7 +527,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>19.</b> Now that all three pairs of hourglasses have resolved, the
+      <p><b>20.</b> Now that all three pairs of hourglasses have resolved, the
       blue debuff players now go out to the puddles left behind to cleanse
       their debuff.</p>
       <p>Each blue player should have marked themselves 1-4 by this point. This
@@ -521,7 +540,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>20.</b> A second line telegraph now appears, this time either 
+      <p><b>21.</b> A second line telegraph now appears, this time either 
       North or South.</p>
       <p><b>Note which side this telegraph starts on (North or South).</b> The
       party will spread later with this side as <b>relative North</b>.</p>
@@ -534,7 +553,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>21.</b> Position yourselves to dodge the second line AoE.</p>
+      <p><b>22.</b> Position yourselves to dodge the second line AoE.</p>
       <p>At this point, all blue players should have cleansed their debuff.</p>
       <p>If the line AoE started North (like in this example), this is your
       <em>last chance</em> to get to the safe side in time.</p>
@@ -545,7 +564,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> Dodge the second horizontal line AoE and move towards the
+      <p><b>23.</b> Dodge the second horizontal line AoE and move towards the
       center.</p>
       <p>The <em>Quietus</em> debuffs will resolve shortly, dealing raid-wide
       damage.</p>
@@ -556,7 +575,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>23.</b> Make a Y-shaped formation near the center of the arena,
+      <p><b>24.</b> Make a Y-shaped formation near the center of the arena,
       towards where the second set of line AoEs originated from.</p>
       <ul>
         <li><b>MT:</b> Relative top-left</li>
@@ -571,7 +590,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>24.</b> After recording your position, spread out for <em>Spirit 
+      <p><b>25.</b> After recording your position, spread out for <em>Spirit 
       Taker</em> on a random player.</p>
       <p><b>Using where the second line AoE originated from as north</b>:</p>
       <ul>
@@ -599,7 +618,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>25.</b> The Oracle of Darkness will jump on a random player with 
+      <p><b>26.</b> The Oracle of Darkness will jump on a random player with 
       <em>Spirit Taker</em>.
       <p>When she does so, prepare <b>heavy mitigation</b>:</p>
       <ul>
@@ -614,7 +633,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>26.</b> The rewind resolves, and the Usurper of Frost casts 
+      <p><b>27.</b> The rewind resolves, and the Usurper of Frost casts 
       <em>Hallowed Wings</em> from the side where the first line AoE came from.</p>
       <ul>
         <li>The party gets knocked back half the arena, which is blocked by 
@@ -631,7 +650,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>27.</b> The second <em>Hallowed Wings</em> resolves, this time from
+      <p><b>28.</b> The second <em>Hallowed Wings</em> resolves, this time from
       North or South (wherever the second line AoE came from).</p>
       <p>The party will get knocked back half the arena.</p>
     </td>
@@ -641,6 +660,8 @@ the sea of mechanics.
   </tr>
 </table>
 
+---
+
 ## Akh Morn 2 - 7:1 (ST solo)
 
 The two bosses will reappear around the center of the arena and immediately 
@@ -649,27 +670,38 @@ start another 4-hit *Akh Morn* into *Morn Afah* sequence.
 <table>
   <tr>
     <td width="50%">
-      <p><b>27.</b> The two bosses target whoever has their hate with a 4-hit
+      <p><b>29.</b> The two bosses target whoever has their hate with a 4-hit
       <em>Akh Morn</em> (which should be their respective tanks).</p>
-      <p>This time, we have the ST split off and take it solo.</p>
+      <p>This time, all other players other than the ST stack together in the
+      middle to share the MT's <em>Akh Morn</em>, while the ST takes their
+      <em>Akh Morn</em> solo with mitigations, away from the party.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/akh_morn_02.jpg">
     </td>
   </tr>
+  <tr>
+    <td>
+      <p><b>30.</b> The Usurper of Frost will target whoever is first in aggro
+      (which should be the MT) with <em>Morn Afah</em> again, which is a 
+      <b>party stack</b>.</p>
+      <p>This works exactly the same as the first <em>Morn Afah</em> (the
+      bosses need to be within 5% HP of each other, or <em>Morn Afah</em> will
+      be lethal damage).</p>
+      <p>However, this time, the Fragment of Fate will pulse with one last 
+      <em>Edge of Oblivion</em> raid-wide just before <em>Morn Afah</em> 
+      resolves, so any shields will need to be reapplied.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/morn_afah.jpg">
+    </td>
+  </tr>
 </table>
-
-Notably, the Fragment of Fate will do one round of *Edge of Oblivion* just
-before the *Morn Afah* resolves, so any shields will need to be reapplied.
-
-Also remember that two bosses have to be within 5% HP of each other for *Morn
-Afah*. If things are looking bad, *Morn Afah* comes from the Usurper of Frost,
-so the MT can sacrifice themselves and take it away from the party if needed.
 
 Both bosses will then start casting their respective enrages (*Absolute Zero*
 and *Memory's End*).
 
-When both bosses are defeated, there will be a knockback from the center, and 
+When both bosses are defeated, all players will be stunned, dragged south, and 
 you will advance to the next arena.
 
 If the Fragment of Fate is not around, Eden's Promise will spawn and wipe the
@@ -814,7 +846,8 @@ party advances to the final phase.
 
 <details markdown=block>
 <summary>
-  <b>[Crystallize Time (Hallowed Wings)]</b> Just <em>how</em> does this mechanic work?
+  <b>[Crystallize Time (Hallowed Wings)]</b> Just <em>how</em> does this
+  mechanic work?
 </summary>
 <table>
   <tr>
@@ -870,6 +903,38 @@ party advances to the final phase.
       Dance far (i.e: further than 6.5 yalms), and are likely targeting
       <em>something</em>.</p>
       <p>The solution is to simply untarget before pressing <em>Holmgang</em>.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Akh Morn]</b> How did the tank (or party) get one-shot?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>This happens when both bosses' <em>Akh Morns</em> target the same
+      tank, which is a consequence of either tank losing hate on their assigned
+      boss.</p>
+      <p>Possible causes are:</p>
+      <ul>
+        <li>A tank accidentally <em>Provokes</em> the wrong boss.</li>
+        <li>A tank dies (so the remaining tank has hate on both bosses).</li>
+        <li>A tank takes hate on the wrong boss by attacking the other boss too
+        much with tank stance on.</li>
+      </ul>
+      <p>In particular, the following scenarios may lead to a tank getting
+      aggro on the wrong boss:</p>
+      <ul>
+        <li>The MT can take hate on the Oracle of Darkness if they end up going
+        South in <em>Darklit Dragonsong</em>. This implies the ST is North, and
+        unable to attack the Oracle of Darkness to maintain aggro. The ST is
+        also unable to attack the Oracle of Darkness during <em>Somber Dance</em>.</li>
+        <li>The ST can take hate on the Usurper of Frost, because the MT has to
+        disconnect from the Usurper of Frost to resolve <em>Somber Dance</em>.</li>
+      </ul>
     </td>
   </tr>
 </table>

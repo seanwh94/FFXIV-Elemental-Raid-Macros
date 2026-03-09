@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5. Alternate Thordan
-parent: Lv 90. DSR
+parent: Lv 90. DSR (Elemental)
 nav_order: 6
 has_children: false
 has_toc: false
@@ -268,9 +268,7 @@ the furthest apart from each other.
         <li>Step into the white puddle left behind to cleanse Doom</li>
       </ul>
       <p>All players should move further to the edge to ensure the chains 
-      break. <a href="#-troubleshooting">
-        <img style="height:1em" src="{{site.baseurl}}/images/icons/playdead.png">
-      </a></p>
+      break.</p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/05/death_of_the_heavens_08.jpg"></td>
   </tr>
@@ -280,9 +278,7 @@ After Death of the Heavens, eight Meteor Circles will spawn that must be
 quickly destroyed.
 
 A caster LB2 will destroy three Meteor Circles; if there are no casters alive,
-a ranged LB2 will also suffice. <a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a>
+a ranged LB2 will also suffice.
 
 - After all Meteors have been destroyed, Thordan will reappear in the middle
   and start casting *Ancient Quaga*.
@@ -291,16 +287,14 @@ a ranged LB2 will also suffice. <a href="#-frequently-asked-questions">
   the enrage.
 
 Once Thordan's HP drops **below 3.0%**, he will stumble, yield, and beg for
-mercy. **Do not kill Thordan.** <a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a>
+mercy. **Do not kill Thordan.**
 
 Thordan will then become untargetable and jump away, moving the party onto the 
 next phase.
 
 ---
 
-## <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png"> Frequently Asked Questions
+## Frequently Asked Questions
 
 <details markdown=block>
 <summary>
@@ -348,11 +342,12 @@ next phase.
 
 ---
 
-## <img style="height:1em" src="{{site.baseurl}}/images/icons/playdead.png"> Troubleshooting
+## Troubleshooting
 
 <details markdown=block>
 <summary>
-  <b>[Death of the Heavens]</b> How did two players clip their <em>Heavensflame</em> AoE despite getting knocked back correctly?
+  <b>[Death of the Heavens]</b> How did two players clip their
+  <em>Heavensflame</em> AoE despite getting knocked back correctly?
 </summary>
 <table>
   <tr>
@@ -369,7 +364,7 @@ next phase.
 
 ---
 
-## <img style="height:1em" src="{{site.baseurl}}/images/icons/eureka.png"> Strategy Related Questions
+## Strategy Related Questions
 
 <details markdown=block>
 <summary>

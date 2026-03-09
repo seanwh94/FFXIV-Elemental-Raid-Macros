@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2. King Thordan
-parent: Lv 90. DSR
+parent: Lv 90. DSR (Elemental)
 nav_order: 3
 has_children: false
 has_toc: false
@@ -254,7 +254,8 @@ In other words:
       intercardinal positions <b>in the same direction the inside knights are 
       facing</b>.</p>
       <p>Look away from <em>both</em> Thordan and the Dragon Eye.</p>
-      <p><em>In this example, the DRK is SE, and the center two knights are facing clockwise. Thus:</em></p>
+      <p><em>In this example, the DRK is SE, and the center two knights are
+      facing clockwise. Thus:</em></p>
       <ul>
         <li><em>Group 1 starts 3-4 notches clockwise of the opposite mark (NW).</em></li>
         <li><em>Group 2 starts 3-4 notches clockwise of the mark behind the DRK (SE).</em></li>
@@ -270,7 +271,8 @@ In other words:
   <tr>
     <td>
       <p><b>2.</b> The two gazes will resolve.</p>
-      <p>The two knights will begin their dashes, dropping white balls and AoEs in their path.</p>
+      <p>The two knights will begin their dashes, dropping white balls and AoEs
+      in their path.</p>
       <p>At the same time, Ser Zephirin (the DRK) will jump four times in 
       total, alternating between the players marked with one and two swords.</p>
     </td>
@@ -304,7 +306,8 @@ In other words:
       intercardinal positions <b>in the same direction the inside knights are 
       facing</b>.</p>
       <p>Look away from <em>both</em> Thordan and the Dragon Eye.</p>
-      <p><em>In this example, the DRK is SE, and the center two knights are facing anti-clockwise. Thus:</em></p>
+      <p><em>In this example, the DRK is SE, and the center two knights are
+      facing anti-clockwise. Thus:</em></p>
       <ul>
         <li><em>Group 1 starts 3-4 notches anti-clockwise of the opposite mark 
         (NW).</em></li>
@@ -317,7 +320,8 @@ In other words:
   <tr>
     <td>
       <p><b>2.</b> The two gazes will resolve.</p>
-      <p>The two knights will begin their dashes, dropping white balls and AoEs in their path.</p>
+      <p>The two knights will begin their dashes, dropping white balls and AoEs
+      in their path.</p>
       <p>At the same time, Ser Zephirin (the DRK) will jump four times in 
       total, alternating between the players marked with one and two swords.</p>
     </td>
@@ -368,8 +372,11 @@ In other words:
       off into their respective towers.</p>
       <p><b>Meteor role:</b></p>
       <ul>
-        <li><p>Unless your partner indicates otherwise <em>(see the next step)</em>,
-        take the first outside tower in the following priority:</p>
+        <li>You will always take an <b>outside</b> tower.</li>
+        <li>If you are either North or South, your priority is to avoid a
+        "cursed" scenario where both Meteor players start West or East.</li>
+        <li><p>Otherwise, if there is more than one tower outside, take the
+        first outside tower in the following priority:</p>
         <p style="text-align:center"><b>center > ccw > cw</b></p></li>
         <li>Take your tower as close to the center N/S line as you can
         <em>(observe H1's position in the diagram)</em>.</li>
@@ -568,9 +575,11 @@ scenarios to consider.
     <td>
       <p><b>3.</b> Players then split off into their respective towers.</p>
       <p>This is the unfortunate case where blindly following the priority order
-      makes things harder.</p><p>Ideally, the MT would've communicated that they
-      should take the ccw tower, so D3 would take the cw tower and "uncurse" D1
-      as a result.</p>
+      makes things harder.</p>
+      <p>Here, because D1 only has the CW tower available, D3 should (in the
+      ideal case) also take their CW tower, breaking the tower priority.</p>
+      <p>This would be communicated between the MT and D3 just before stacking
+      together.</p>
       <p>By taking the towers as close to the N/S line, this maximises the
       available space even in the "cursed" configuration.</p>
       <ul>

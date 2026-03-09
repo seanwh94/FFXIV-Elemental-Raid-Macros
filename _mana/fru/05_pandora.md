@@ -16,6 +16,8 @@ Mana PF also uses Nukemaru's video for this phase.
 
 After the cutscene, Pandora quickly opens with her first mechanic.
 
+---
+
 ## Fulgent Blade（光塵の剣）
 
 The boss will cast *Fulgent Blade*, which starts with raid-wide damage. The 
@@ -174,6 +176,8 @@ both tanks).
 
 After the *Akh Morn*, Pandora goes straight into the next mechanic.
 
+---
+
 ## Paradise Regained（パラダイスリゲインド）
 
 This is the most complex mechanic of the phase.
@@ -301,6 +305,8 @@ This is the most complex mechanic of the phase.
 Have the MT *Provoke* to take the boss back, and face the boss to any of the
 eight cardinal/intercardinal markers to prepare for the final mechanic of the
 loop.
+
+---
 
 ## Polarizing Strikes（星霊の剣）
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 6. Double Dragons
-parent: Lv 90. DSR
+parent: Lv 90. DSR (Elemental)
 nav_order: 7
 has_children: false
 has_toc: false
@@ -34,8 +34,8 @@ Each dragon also has their own enrage condition. Causing either dragon to break
 their vow will result in their attacks one-shotting anyone hit (including 
 tanks), and lower their damage taken.
 
-**Solemn Vow:** Hraesvelgr will enrage if he kills *any* player.
-**Mortal Vow:** Nidhogg will enrage if *Mortal Vow* is not passed.
+- **Solemn Vow:** Hraesvelgr will enrage if he kills *any* player.
+- **Mortal Vow:** Nidhogg will enrage if *Mortal Vow* is not passed.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -77,9 +77,7 @@ We pass "DTTMR", or in other words:
 **DPS → MT → ST → D1/D2 → D3**
 
 All passes happen in the center of the arena, except for the final pass after
-Touchdown (which is just done at the edge). <a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a>
+Touchdown (which is just done at the edge).
 
 ---
 
@@ -96,9 +94,7 @@ a base:
 ### Wyrmsbreath 1
 
 Each dragon will tether to three non-tank players that need to be sufficiently
-stretched to lower their damage. <a href="#-troubleshooting">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/playdead.png">
-</a>
+stretched to lower their damage.
 
 The tethers will also apply Fire or Ice-aspected debuffs that cancel each
 other, so each non-tank player needs to get hit by a tether from *each* dragon.
@@ -147,9 +143,7 @@ will apply the <em>Boiling</em> debuff.</p>
       <p><em>Fire-aspected damage is taken with every action.</em></p>
       <ul>
         <li>Ticks for about 40-45k damage if an action is taken, including 
-        auto-attacks. <a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a></li>
+        auto-attacks.</li>
         <li>Lasts 30 seconds.</li>
       </ul>
     </td>
@@ -363,9 +357,7 @@ Here are some other potential configurations to consider:
 </details>
 
 The party should continue to **attack Hraesvelgr** during this whole sequence,
-even after Nidhogg returns. <a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a>
+even after Nidhogg returns.
 
 After the *Mortal Vow* pass, Nidhogg will cast *Wroth Flames*, and Hraesvelgr
 will leave the arena.
@@ -389,9 +381,7 @@ second iteration of each of the looped mechanics.
   set will always spawn first, followed by two more sets on opposite corners.
 - Finally, the party will be affected by a variety of spread and stack debuffs 
   that will resolve at the end together with either *Hot Wing* or *Hot Tail* 
-  from Nidhogg. <a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a>
+  from Nidhogg.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -450,9 +440,6 @@ second iteration of each of the looped mechanics.
 
 To help assign player positions for the final spread and stack, it is common
 practice to mark the players. However, there are two different marking schemes.
-<a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a>
 
 <table>
   <tr>
@@ -518,8 +505,8 @@ in after the third Akh Morn.
   <tr>
     <td>
       <p><b>2.</b> The second set of eyes spawn.</p>
-      <p>Move to the North or South corner, whichever is further from the
-      second set of eyes.</p>
+      <p>Move towards the North or South corner, whichever is further from the
+      second set of eyes. However, don't go <em>all</em> the way to the corner.</p>
       <p><em>(In this example, moving South to the SW corner puts the party the 
       furthest away from the second set of Eyes that spawned NE.)</em></p>
     </td>
@@ -618,50 +605,64 @@ Here are some additional examples to consider:
       <p><em>(In this example, Hraesvelgr's Cauterize will go down the center, 
       so the party moves West next to Nidhogg.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_01.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_01.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>2.</b> The second set of eyes spawn.</p>
-      <p>Move to the North or South corner, whichever is further from the
-      second set of eyes.</p>
+      <p>Move towards the North or South corner, whichever is further from the
+      second set of eyes. However, don't go <em>all</em> the way to the corner.</p>
       <p><em>(In this example, moving North to the NW corner puts the party the 
       furthest away from the second set of Eyes that spawned SW.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_02.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_02.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> The third set of eyes spawn.</p>
       <p>Stack together, mitigate, and get ready to move as a group.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_03.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_03.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>4.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_04.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_04.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>5.</b> First set of eye AoEs resolve. Drop the second Akh Morn
       puddle without getting hit.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_05.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_05.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>6.</b> Drop third and fourth Akh Morn puddles.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_06.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_06.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>7.</b> Move to the middle, identify whether Nidhogg is casting Hot
       Wing or Hot Tail.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_07.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_07.jpg">
+    </td>
   </tr>
 </table>
 </details>
@@ -680,42 +681,62 @@ Here are some additional examples to consider:
       <p><em>(In this example, Hraesvelgr's Cauterize will go down the west 
       half, so the party moves east away from Nidhogg.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_01.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_01.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>2.</b> The second set of eyes spawn.</p>
-      <p>Move to the North or South corner, whichever is further from the
-      second set of eyes.</p>
+      <p>Move towards the North or South corner, whichever is further from the
+      second set of eyes. However, don't go <em>all</em> the way to the corner.</p>
       <p><em>(In this example, moving North to the NE corner puts the party the 
       furthest away from the second set of Eyes that spawned SE.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_02.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_02.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> The third set of eyes spawn.</p>
       <p>Stack together, mitigate, and get ready to move as a group.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_03.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_03.jpg">
+    </td>
   </tr>
   <tr>
     <td><b>4.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_04.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_04.jpg">
+    </td>
   </tr>
   <tr>
-    <td><b>5.</b> First set of eye AoEs resolve. Drop the second Akh Morn
-    puddle without getting hit.</td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_05.jpg"></td>
+    <td>
+      <p><b>5.</b> First set of eye AoEs resolve. Drop the second Akh Morn
+      puddle without getting hit.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_05.jpg">
+    </td>
   </tr>
   <tr>
-    <td><b>6.</b> Drop third and fourth Akh Morn puddles.</td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_06.jpg"></td>
+    <td>
+      <p><b>6.</b> Drop third and fourth Akh Morn puddles.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_06.jpg">
+    </td>
   </tr>
   <tr>
-    <td><b>7.</b> Move to the middle, identify whether Nidhogg is casting Hot
-    Wing or Hot Tail.</td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_07.jpg"></td>
+    <td>
+      <p><b>7.</b> Move to the middle, identify whether Nidhogg is casting
+      <em>Hot Wing</em> or <em>Hot Tail</em>.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_07.jpg">
+    </td>
   </tr>
 </table>
 </details>
@@ -860,9 +881,7 @@ we needed the fire/ice debuffs in order to survive this mechanic.
   <tr>
     <td width="50%">
       <p><b>1.</b> Nidhogg and Hraesvelgr will spawn along the north edge in a
-      <b>random</b> configuration, and dive down each half. <a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a></p>
+      <b>random</b> configuration, and dive down each half.</p>
       <p>The first player hit by each dive takes additional damage, and are
       taken by the tanks with their invulns.</p>
       <ul>
@@ -878,7 +897,8 @@ we needed the fire/ice debuffs in order to survive this mechanic.
       cause Hraesvelgr to enrage.</p>
       <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
         <b>Note:</b> If you have a DRK and are using <em>Living Dead</em> here, 
-        neither dragon will be targetable for the DRK to recover HP for <em>Walking Dead</em>.
+        neither dragon will be targetable for the DRK to recover HP for
+        <em>Walking Dead</em>.
       </div>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/cauterize_01.jpg"></td>
@@ -940,11 +960,12 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 
 ---
 
-## <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png"> Frequently Asked Questions
+## Frequently Asked Questions
 
 <details markdown=block>
 <summary>
-  <b>[Mortal Vow]</b> Does the final <em>Mortal Vow</em> pass still go to D3 even if D3 started with <em>Mortal Vow</em>?
+  <b>[Mortal Vow]</b> Does the final <em>Mortal Vow</em> pass still go to D3
+  even if D3 started with <em>Mortal Vow</em>?
 </summary>
 <table>
   <tr>
@@ -979,7 +1000,8 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 
 <details markdown=block>
 <summary>
-  <b>[Hallowed Wings 1]</b> Why should the party continue to attack Hraesvelgr after the first Hallowed Wings, even after Nidhogg returns?
+  <b>[Hallowed Wings 1]</b> Why should the party continue to attack Hraesvelgr
+  after the first Hallowed Wings, even after Nidhogg returns?
 </summary>
 <table>
   <tr>
@@ -1116,7 +1138,7 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 
 ---
 
-## <img style="height:1em" src="{{site.baseurl}}/images/icons/playdead.png"> Troubleshooting
+## Troubleshooting
 
 <details markdown=block>
 <summary>
@@ -1144,11 +1166,12 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 
 ---
 
-## <img style="height:1em" src="{{site.baseurl}}/images/icons/eureka.png"> Strategy Related Questions
+## Strategy Related Questions
 
 <details markdown=block>
 <summary>
-  <b>[Wyrmsbreath 2]</b> What is the fixed Wyrmsbreath 2 strat, and why aren't we doing it?</summary>
+  <b>[Wyrmsbreath 2]</b> What is the fixed Wyrmsbreath 2 strat, and why aren't
+  we doing it?</summary>
 <table>
   <tr>
     <td>
@@ -1159,7 +1182,7 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
       <p>However, player positioning is precise, and when things go wrong, it's
       often difficult to diagnose what went wrong.</p>
       <p style="text-align:center">
-        <img src="{{site.baseurl}}/images/ultimates/dsr/06/fixed_wyrmsbreath2.jpg">
+        <img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/fixed_wyrmsbreath2.jpg">
       </p>
       <ul>
         <li><b>MT:</b> NW if you get the single-target tankbuster (by Nidhogg).</li>
