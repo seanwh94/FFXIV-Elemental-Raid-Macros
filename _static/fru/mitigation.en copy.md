@@ -26,6 +26,7 @@ It is *not* a plan for PF and is made for my static; use it if you want, but I w
         <li><a href="#p3-oracle-of-darkness">P3. Oracle of Darkness</a></li>
         <li><a href="#p4-gaia-and-shiva">P4. Gaia and Shiva</a></li>
         <li><a href="#p5-pandora">P5. Pandora</a></li>
+        <li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
       </ul>
     </td>
     <td>
@@ -2016,7 +2017,7 @@ This assumes D2 is a melee DPS.
 </table>
 </details>
 
-## F.A.Q. and Troubleshooting
+### Frequently Asked Questions
 
 ## How do I do 6:2 Akh Morns?
 
