@@ -1008,17 +1008,6 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
 
 ## Work In Progress, do not use this
 
-<details markdown=block>
-<summary>
-  <b>Mitigations</b>
-</summary>
-<table>
-  <tr>
-    <td>
-    </td>
-  </tr>
-</table>
-
 ### MT
 
 <table>
@@ -1057,14 +1046,11 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
           fourth tethers in addition to <em>Burnished Glory</em>.</li>
         </ul>
       </ul>
-      <p><b>Powder Mark Trail #2</b> (only if PLD MT)</p>
       <ul>
-        <li><em>Hallowed Ground</em></li>
       </ul>
       <p><b>Burn Mark #2</b></p>
       <ul>
-        <li><em>Rampart</em>, 40%, 3rd</li>
-        <li>Give short mit to the ST.</li>
+        <li><em>Rampart</em>, 40%, 3rd, Short</li>
       </ul>
     </td>
   </tr>
@@ -1127,6 +1113,14 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
       <p>Feel free to use <em>Reprisal</em> anywhere else in this phase
       <em>before</em> the final <em>Dark Water III</em> stacks at
       <em>Apocalypse</em>.</p>
+      <p><b>Shell Crusher + Shockwave Pulsar</b></p>
+        <ul>
+          <li>Reprisal</li>
+        </ul>
+      <p><b>Shockwave Pulsar + Memory's End</b></p>
+        <ul>
+          <li>Reprisal</li>
+        </ul>
     </td>
   </tr>
   <tr>
