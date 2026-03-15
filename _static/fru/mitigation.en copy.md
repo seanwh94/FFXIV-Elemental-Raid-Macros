@@ -67,6 +67,10 @@ It is *not* a plan for PF and is made for my static; use it if you want, but I w
     <td>Shake It Off, Dark Missionary, Heart of Light, Divine Veil</td>
   </tr>
   <tr>
+    <td>H1 60s</td>
+    <td>Plenary Indulgence/Collective Unconscious</td>
+  </tr>
+  <tr>
     <td>H1 120s</td>
     <td>Temperance, Neutral Sect</td>
   </tr>
@@ -1349,6 +1353,19 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <p><b>P1. Fatebreaker</b></p>
     </td>
     <td>
+      <p><b>Cyclonic Break #2</b></p>
+      <ul>
+        <li>H1 60s
+          <ul>
+            <li>Since there is normally a lack of mitigations here, you can use extra mitigations here to ensure players don't die to damage.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <td>
       <p><b>Burnished Glory #1</b></p>
       <ul>
         <li>H1 120s
@@ -1370,11 +1387,17 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
     <td>
       <p><b>Sunburst Holy</b></p>
       <ul>
-        <li>H1 120s</li>
+        <li>H1 120s
+          <ul>You may choose to move your mits to <em>Mirror, Mirror</em> instead.
+          </ul>
+        </li>
       </ul>
       <p><b>Absolute Zero</b></p>
       <ul>
-        <li>H1 120s</li>
+        <li>H1 120s
+          <ul>Your 120s will not be up here if used in <em>Mirror, Mirror</em>. Consider substituting <em>with PI/CU instead</em>.
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
