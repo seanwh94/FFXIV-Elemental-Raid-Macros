@@ -1851,6 +1851,7 @@ This assumes D2 is a melee DPS.
 </table>
 
 ### D3
+As D3 is the only job with a 15% mit and does not require a target, their mits have been adjusted considering that fact.
 
 <table>
   <tr>
