@@ -1383,7 +1383,7 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <p><b>Sunburst Holy</b></p>
       <ul>
         <li>H1 120s
-          <ul>You may choose to move your mits to <em>Mirror, Mirror</em> instead.
+          <ul><li>You may choose to move your mits to <em>Mirror, Mirror</em> instead.</li>
           </ul>
         </li>
       </ul>
