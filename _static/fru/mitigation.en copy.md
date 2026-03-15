@@ -1106,14 +1106,15 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
       <p><b>Ultimate Relativity</b></p>
       <ul>
         <li><em>Reprisal</em></li>
+      <ul>
+        <li>Use <em>Reprisal</em> during the 2nd gcd for it to be up during 
+      <em>Shell Crusher</em> and <em>Shockwave Pulsar</em>.
+        </li>
       </ul>
       <p><b>Fire/Unholy Darkness #2 or #3</b></p>
       <ul>
         <li>MT 90s</li>
       </ul>
-      <p>Feel free to use <em>Reprisal</em> anywhere else in this phase
-      <em>before</em> the final <em>Dark Water III</em> stacks at
-      <em>Apocalypse</em>.</p>
       <p><b>Shell Crusher + Shockwave Pulsar</b></p>
         <ul>
           <li>Reprisal</li>
@@ -1131,7 +1132,7 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
     <td>
       <p><b>Darklit Dragonsong</b></p>
       <ul>
-        <li><em>Reprisal</em>, MT 90s</li>
+        <li>MT 90s</li>
       </ul>
       <p><b>Somber Dance</b></p>
       <ul>
@@ -1142,11 +1143,8 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
       </ul>
       <p><b>Akh Morn #1</b></p>
       <ul>
+        <li><em>Reprisal</em>
         <li><em>Rampart</em>, 3rd, short</li>
-      </ul>
-      <p><b>Crystallize Time</b></p>
-      <ul>
-        <li><em>Reprisal</em></li>
       </ul>
       <p><b>Crystallize Time (Hallowed Wings)</b></p>
       <ul>
@@ -1164,7 +1162,8 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
       </ul>
       <p><b>Akh Morn #2</b></p>
       <ul>
-        <li>Give short mit to the ST.</li>
+        <li>Reprisal</li>
+        <li><em>Rampart</em>, 3rd, short</li>
       </ul>
     </td>
   </tr>
