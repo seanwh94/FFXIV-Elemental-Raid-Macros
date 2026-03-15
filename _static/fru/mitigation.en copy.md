@@ -1387,10 +1387,16 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
           </ul>
         </li>
       </ul>
+      <p><b>Light Rampant</b></p>
+        <ul>
+          <li>H1 180s
+            <ul><li>As WHM/AST 180s has slight differences in what they do, they may choose to use it in different places.</li></ul>
+          </li>
+        </ul>
       <p><b>Absolute Zero</b></p>
       <ul>
         <li>H1 120s
-          <ul>Your 120s will not be up here if used in <em>Mirror, Mirror</em>. Consider substituting <em>with PI/CU instead</em>.
+          <ul><li>Your 120s will not be up here if used in <em>Mirror, Mirror</em>. Consider substituting <em>with PI/CU instead</em>.</li>
           </ul>
         </li>
       </ul>
