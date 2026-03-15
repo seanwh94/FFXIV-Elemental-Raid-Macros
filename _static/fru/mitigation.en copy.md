@@ -1361,11 +1361,6 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
           </ul>
         </li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <td>
       <p><b>Burnished Glory #1</b></p>
       <ul>
         <li>H1 120s
