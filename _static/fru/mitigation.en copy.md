@@ -1007,7 +1007,7 @@ Due to how tight the mitigation and heal check is in this phase, the party shoul
 
 ## Mitigation by Role
 
-## Work In Progress, do not use this
+## Work In Progress, some information may be missing
 
 ### MT
 
