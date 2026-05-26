@@ -155,10 +155,10 @@ Notably, the mitigations below have been planned *without* taking the healer
     <td>
       <ul>
         <li><b>MT + ST:</b> 30% + short</li>
-        <li>D3</li>
+        <li>MT 90s, D3</li>
       </ul>
     </td>
-    <td></td>
+    <td>Mitigate the tethers + <em>Skyward Leaps</em>.</td>
   </tr>
   <tr>
     <td>
@@ -919,13 +919,12 @@ Note that MT, ST, H2 and D3 should watch the *Trinity* autoattacks after
       </ul>
       <p><b>Strength of the Ward</b></p>
       <ul>
+        <li>MT 90s
+          <ul>
+            <li>Mitigate tethers + <em>Skyward Leaps</em>.</li>
+          </ul>
+        </li>
         <li>30%, short</li>
-      </ul>
-      <p><b>Ancient Quaga</b></p>
-      <ul>
-        <li>30%, short</li>
-        <li>This is the latest you can use your MT 90s, and have it back by
-        <em>Ultimate End</em></li>
       </ul>
       <p><b>Heavenly Heel</b></p>
       <ul>

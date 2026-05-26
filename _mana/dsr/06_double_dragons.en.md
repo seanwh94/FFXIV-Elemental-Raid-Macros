@@ -505,7 +505,7 @@ recommended.**
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>8.</b> Spreads will go towards Nidhogg (west), stacks will go
+      <p><b>8.</b> Stacks will go towards Nidhogg (west), while spreads will go
       towards Hraesvelgr (east).</p>
       <p style="text-align:center"><b>(West)</b> MT ST D1 D2 D3 D4 H1 H2
       <b>(East)</b></p>
